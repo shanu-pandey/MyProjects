@@ -1,0 +1,662 @@
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bathroom.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bedroom.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonball.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\Failscreen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\flying.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\kitchen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\main.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\ninja.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retry.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retryPressed.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButton.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButtonPressed.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetDead.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetSleeping.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\titlescreen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\tvRoom.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\WinScreen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_00.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_01.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_02.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_03.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_04.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_05.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_06.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_07.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_08.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_09.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_11.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottles.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottlesBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelier.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelierBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishes.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishesBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClock.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClockBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lamp.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lampBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lights.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lightsBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirror.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirrorBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\painting.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\paintingBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\pots.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\potsBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\table.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tableBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tv.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tvBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vase.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vaseBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bathroom.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bedroom.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottles.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottlesBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonball.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonBody.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonStand.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelier.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelierBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishes.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishesBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\Failscreen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\flying.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClock.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClockBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\kitchen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lamp.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lampBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lights.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lightsBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\main.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_00.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_01.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_02.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_03.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_04.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_05.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_06.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_07.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_08.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_09.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_11.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirror.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirrorBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\ninja.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\painting.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\paintingBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\pots.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retry.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retryPressed.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButton.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButtonPressed.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\table.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetDead.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetSleeping.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\titlescreen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\toilet.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tv.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvRoom.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vase.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vaseBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\WinScreen.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.exe
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.pdb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.exe
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.pdb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\toilet.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.csprojResolveAssemblyReference.cache
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\font.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killerninja.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\killerninja.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\aim.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\aim.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonBody.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonStand.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\window.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\windowBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\door.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\window.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\door.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\doorBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\doorBroken.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.wma
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bigObjectFall_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\breaking_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandalier_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.wma
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\glassBreaking_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killTarget_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\platerBreaking_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBreaking_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBreak_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.wma
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\woodeFalling_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\launch_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\startClick_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\DoorBreak_effect.xnb
+c:\users\u1139622\documents\visual studio 2015\Projects\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBreak_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.exe
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.pdb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bathroom.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bedroom.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonball.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\Failscreen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\flying.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\kitchen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\main.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\ninja.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retry.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retryPressed.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButton.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButtonPressed.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetDead.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetSleeping.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\titlescreen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\tvRoom.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\WinScreen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_00.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_01.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_02.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_03.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_04.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_05.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_06.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_07.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_08.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_09.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_11.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottles.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottlesBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelier.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelierBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishes.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishesBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClock.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClockBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lamp.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lampBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lights.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lightsBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirror.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirrorBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\painting.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\paintingBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\pots.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\potsBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\table.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tableBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tv.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tvBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vase.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vaseBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\toilet.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\killerninja.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\aim.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonBody.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonStand.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\window.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\windowBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\door.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\doorBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\aim.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.wma
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bathroom.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bedroom.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bigObjectFall_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottles.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottlesBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\breaking_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonball.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonBody.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonStand.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandalier_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelier.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelierBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishes.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishesBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\door.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\DoorBreak_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\doorBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\Failscreen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.wma
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\flying.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\glassBreaking_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClock.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClockBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killerninja.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killTarget_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\kitchen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lamp.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lampBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\launch_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lights.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lightsBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\main.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_00.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_01.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_02.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_03.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_04.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_05.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_06.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_07.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_08.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_09.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_11.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirror.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirrorBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\ninja.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\painting.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\paintingBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\platerBreaking_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\pots.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBreaking_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retry.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retryPressed.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButton.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButtonPressed.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\startClick_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\table.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBreak_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetDead.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.wma
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetSleeping.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\titlescreen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\toilet.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tv.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvRoom.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vase.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vaseBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\window.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBreak_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBroken.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\WinScreen.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\woodeFalling_effect.xnb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.exe
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.pdb
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Sam\Desktop\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.csprojResolveAssemblyReference.cache
+D:\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.exe
+D:\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.pdb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bathroom.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bedroom.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonball.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\Failscreen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\flying.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\kitchen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\main.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\ninja.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retry.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retryPressed.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButton.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButtonPressed.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetDead.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetSleeping.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\titlescreen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\tvRoom.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\WinScreen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_00.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_01.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_02.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_03.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_04.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_05.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_06.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_07.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_08.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_09.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_11.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottles.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottlesBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelier.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelierBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishes.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishesBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClock.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClockBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lamp.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lampBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lights.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lightsBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirror.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirrorBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\painting.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\paintingBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\pots.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\potsBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\table.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tableBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tv.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tvBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vase.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vaseBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\toilet.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\killerninja.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\aim.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonBody.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonStand.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\window.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\windowBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\door.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\doorBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\aim.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.wma
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bathroom.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bedroom.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bigObjectFall_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottles.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottlesBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\breaking_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonball.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonBody.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonStand.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandalier_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelier.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelierBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishes.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishesBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\door.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\DoorBreak_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\doorBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\Failscreen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.wma
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\flying.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\font.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\glassBreaking_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClock.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClockBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killerninja.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killTarget_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\kitchen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lamp.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lampBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\launch_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lights.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lightsBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\main.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_00.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_01.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_02.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_03.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_04.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_05.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_06.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_07.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_08.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_09.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_11.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirror.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirrorBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\ninja.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\painting.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\paintingBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\platerBreaking_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\pots.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBreaking_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retry.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retryPressed.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButton.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButtonPressed.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\startClick_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\table.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBreak_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetDead.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.wma
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetSleeping.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\titlescreen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\toilet.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tv.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvRoom.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vase.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vaseBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\window.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBreak_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBroken.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\WinScreen.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\woodeFalling_effect.xnb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.exe
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.pdb
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.csprojResolveAssemblyReference.cache
+G:\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.exe
+G:\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.pdb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bathroom.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\bedroom.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonball.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\Failscreen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\flying.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\kitchen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\main.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\ninja.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retry.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\retryPressed.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButton.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\StartButtonPressed.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetDead.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\targetSleeping.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\titlescreen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\tvRoom.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\WinScreen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_00.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_01.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_02.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_03.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_04.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_05.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_06.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_07.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_08.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_09.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\noise\meter_11.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottles.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\bottlesBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelier.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\chandelierBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishes.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\dishesBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClock.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\grandfatherClockBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lamp.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lampBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lights.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\lightsBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirror.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\mirrorBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\painting.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\paintingBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\pots.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\potsBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\table.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tableBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tv.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\tvBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vase.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\vaseBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\toilet.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\killerninja.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\aim.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonBody.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\cannonStand.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\window.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\obstacles\windowBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\door.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\graphics\doorBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\aim.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.wma
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\background_song.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bathroom.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bedroom.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bigObjectFall_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottles.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\bottlesBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\breaking_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonball.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonBody.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\cannonStand.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandalier_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelier.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\chandelierBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishes.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\dishesBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\door.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\DoorBreak_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\doorBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\Failscreen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.wma
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\failScreen_song.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\flying.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\font.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\glassBreaking_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClock.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\grandfatherClockBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killerninja.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\killTarget_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\kitchen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lamp.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lampBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\launch_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lights.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\lightsBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\main.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_00.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_01.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_02.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_03.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_04.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_05.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_06.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_07.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_08.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_09.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\meter_11.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirror.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\mirrorBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\ninja.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\painting.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\paintingBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\platerBreaking_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\pots.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBreaking_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\potsBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retry.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\retryPressed.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButton.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\StartButtonPressed.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\startClick_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\table.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBreak_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tableBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetDead.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.wma
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetKilled_song.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\targetSleeping.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\titlescreen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\toilet.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tv.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\tvRoom.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vase.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\vaseBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\window.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBreak_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\windowBroken.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\WinScreen.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\Content\woodeFalling_effect.xnb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.exe
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\NinjaPinball.pdb
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+G:\NinjaPinball\NinjaPinball\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\NinjaPinball\NinjaPinball\obj\x86\Debug\NinjaPinball.csprojResolveAssemblyReference.cache
