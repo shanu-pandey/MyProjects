@@ -1,0 +1,1157 @@
+﻿Log file open, 12/06/17 13:21:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CastleOfPerdition
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1174317035) SRandInit(-1174317035).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166272
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Binaries/Win64/UE4Editor-CastleOfPerdition.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.06-20.21.16:761][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-20.21.16:761][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.06-20.21.16:772][  0]LogInit: Computer: eae-d-057
+[2017.12.06-20.21.16:772][  0]LogInit: User: u1139622
+[2017.12.06-20.21.16:772][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.06-20.21.16:772][  0]LogInit: High frequency timer resolution =3.326084 MHz
+[2017.12.06-20.21.16:772][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.06-20.21.16:772][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.06-20.21.16:772][  0]LogMemory: Process Physical Memory: 277.12 MB used, 277.12 MB peak
+[2017.12.06-20.21.16:772][  0]LogMemory: Process Virtual Memory: 276.13 MB used, 276.13 MB peak
+[2017.12.06-20.21.16:772][  0]LogMemory: Physical Memory: 9317.95 MB used,  23386.70 MB free, 32704.65 MB total
+[2017.12.06-20.21.16:772][  0]LogMemory: Virtual Memory: 700.89 MB used,  23386.70 MB free, 134217728.00 MB total
+[2017.12.06-20.21.16:897][  0]LogInit: Using OS detected language (en-US).
+[2017.12.06-20.21.16:897][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.06-20.21.16:899][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.06-20.21.17:268][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.06-20.21.17:499][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.06-20.21.17:541][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.06-20.21.17:541][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.06-20.21.17:542][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.06-20.21.17:542][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.06-20.21.17:542][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.06-20.21.17:549][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.06-20.21.17:549][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.06-20.21.17:549][  0]LogWindows: EnumDisplayDevices:
+[2017.12.06-20.21.17:549][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.06-20.21.17:550][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.06-20.21.17:550][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.06-20.21.17:550][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.06-20.21.17:550][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.06-20.21.17:550][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.06-20.21.17:550][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.06-20.21.17:550][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.06-20.21.17:550][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.06-20.21.17:578][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.06-20.21.17:588][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.06-20.21.17:672][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Intermediate/Shaders/WorkingDirectory/30692/).
+[2017.12.06-20.21.17:673][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1139622/AppData/Local/Temp/UnrealShaderWorkingDir/6C87E99543179BF17E084B842CD8C9FA/'.
+[2017.12.06-20.21.17:673][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.06-20.21.18:495][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.06-20.21.18:540][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.06-20.21.18:586][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.06-20.21.18:630][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.06-20.21.18:674][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.06-20.21.18:720][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.06-20.21.18:764][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.06-20.21.18:809][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.06-20.21.18:848][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.06-20.21.18:892][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.06-20.21.18:935][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.06-20.21.18:978][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.06-20.21.19:021][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.06-20.21.19:064][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.06-20.21.19:150][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.06-20.21.19:150][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.06-20.21.19:194][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.06-20.21.19:229][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.06-20.21.19:308][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.06-20.21.19:332][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.06-20.21.19:375][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.06-20.21.19:419][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.06-20.21.19:463][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.06-20.21.19:506][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.06-20.21.19:506][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.06-20.21.19:903][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.06-20.21.19:978][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-20.21.19:978][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.06-20.21.19:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.06-20.21.19:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.06-20.21.19:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.06-20.21.19:978][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.06-20.21.19:993][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.06-20.21.20:006][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1139622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.06-20.21.20:016][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.06-20.21.20:016][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.06-20.21.20:017][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-20.21.20:017][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-20.21.20:344][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-20.21.20:630][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.06-20.21.20:664][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.06-20.21.20:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.06-20.21.20:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.06-20.21.20:664][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.06-20.21.20:664][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.06-20.21.20:692][  0]LogNetVersion: CastleOfPerdition , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 261315538)
+[2017.12.06-20.21.20:839][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2017.12.06-20.21.21:328][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.067166 seconds
+[2017.12.06-20.21.21:334][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.06-20.21.21:334][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.06-20.21.21:334][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.06-20.21.21:386][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.06-20.21.23:874][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.06-20.21.23:915][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.06-20.21.24:558][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.06-20.21.24:933][  0]SourceControl: Source control is disabled
+[2017.12.06-20.21.24:933][  0]SourceControl: Source control is disabled
+[2017.12.06-20.21.24:980][  0]SourceControl: Source control is disabled
+[2017.12.06-20.21.25:027][  0]SourceControl: Source control is disabled
+[2017.12.06-20.21.25:745][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.06-20.21.25:985][  0]LogOcInput: OculusInput pre-init called
+[2017.12.06-20.21.26:225][  0]LogEngine: Initializing Engine...
+[2017.12.06-20.21.26:227][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.06-20.21.26:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.06-20.21.26:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.06-20.21.26:538][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.06-20.21.26:555][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.21.26:564][  0]LogInit: FAudioDevice initialized.
+[2017.12.06-20.21.26:641][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-20.21.26:655][  0]LogInit: Texture streaming: Enabled
+[2017.12.06-20.21.26:738][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.06-20.21.26:851][  0]LogInit: Transaction tracking system initialized
+[2017.12.06-20.21.27:115][  0]BlueprintLog: New page: Editor Load
+[2017.12.06-20.21.27:867][  0]LocalizationService: Localization service is disabled
+[2017.12.06-20.21.28:503][  0]LogConsoleResponse: Display: 
+[2017.12.06-20.21.28:667][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.06-20.21.28:667][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.06-20.21.28:667][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.06-20.21.29:158][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/' took 0.01s
+[2017.12.06-20.21.29:703][  0]SourceControl: Source control is disabled
+[2017.12.06-20.21.29:703][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-20.21.29:704][  0]LightingResults: New page: Lighting Build
+[2017.12.06-20.21.29:738][  0]MapCheck: New page: Map Check
+[2017.12.06-20.21.29:738][  0]LightingResults: New page: Lighting Build
+[2017.12.06-20.21.30:027][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2017.12.06-20.21.30:038][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-20.21.30:048][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-20.21.30:098][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.397ms to complete.
+[2017.12.06-20.21.30:098][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.395
+[2017.12.06-20.21.30:239][  0]LogCollectionManager: Loaded 0 collections in 0.001889 seconds
+[2017.12.06-20.21.30:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Collections/' took 0.01s
+[2017.12.06-20.21.30:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Developers/u1139622/Collections/' took 0.01s
+[2017.12.06-20.21.30:312][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/Collections/' took 0.01s
+[2017.12.06-20.21.30:312][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.06-20.21.30:321][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2365 classes and 521 folders.
+[2017.12.06-20.21.30:376][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.06-20.21.30:413][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.06-20.21.30:451][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.06-20.21.30:520][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-20.21.30:522][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.06-20.21.30:528][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.06-20.21.30:633][  0]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-20.21.30:768][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.06-20.21.30:769][  0]LogLoad: (Engine Initialization) Total time: 16.96 seconds
+[2017.12.06-20.21.30:769][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.06-20.21.30:769][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.06-20.21.30:769][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.06-20.21.30:779][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-20.21.30:795][  0]LogAssetRegistry: Asset discovery search completed in 9.9778 seconds
+[2017.12.06-20.21.30:798][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.06-20.21.30:798][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2017.12.06-20.21.30:801][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.06-20.21.30:844][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-20.21.31:821][110]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-20.21.32:092][110]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2017.12.06-20.21.33:206][110]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.06-20.21.33:288][111]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.06-20.21.50:981][742]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.21.51:010][742]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-20.21.51:010][742]LightingResults: New page: Lighting Build
+[2017.12.06-20.21.51:010][742]LoadErrors: New page: Loading map: Level1_2.umap
+[2017.12.06-20.21.51:011][742]MapCheck: New page: Map Check
+[2017.12.06-20.21.51:011][742]LightingResults: New page: Lighting Build
+[2017.12.06-20.21.51:089][742]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-20.21.51:141][742]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-20.21.51:199][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.974ms to complete.
+[2017.12.06-20.21.51:201][742]LogFileHelpers: Loading map 'Level1_2' took 0.192
+[2017.12.06-20.37.18:927][470]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-20.37.28:068][140]LogSavePackage: Save=77.95ms
+[2017.12.06-20.37.28:068][140]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level1_2_Auto19CF0AAB74A2CBABB6FE3EA93FF826DFD.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level1_2_Auto1.umap'
+[2017.12.06-20.37.28:070][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/Level1_2_Auto1.umap
+[2017.12.06-20.37.28:075][140]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerCPP/Maps/Level1_2' took 0.136
+[2017.12.06-20.37.28:075][140]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2017.12.06-20.38.37:623][444]LogEditorViewport: Clicking Background
+[2017.12.06-20.38.40:053][659]LogEditorViewport: Clicking on Actor (LMB): wrap_teleport_bp_C (wrap_teleport_bp)
+[2017.12.06-20.38.58:742][ 70]LogEditorViewport: Clicking Background
+[2017.12.06-20.39.29:627][500]LogEditorViewport: Clicking on Actor (LMB): wrap_teleport_bp_C (wrap_teleport_bp)
+[2017.12.06-20.39.32:532][712]LogSavePackage: Save=78.22ms
+[2017.12.06-20.39.32:532][712]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level1_2BF7553124BAAFD7729C5A1AD53C2703A.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
+[2017.12.06-20.39.32:535][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.06-20.39.33:310][767]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.39.33:358][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.39.33:359][767]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:39:33 AM)
+[2017.12.06-20.39.33:359][767]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.39.33:362][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003680s)
+[2017.12.06-20.39.33:363][767]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.39.33:363][767]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.12.06-20.39.33:363][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004664s)
+[2017.12.06-20.39.33:392][767]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.39.33:398][767]LogInit: FAudioDevice initialized.
+[2017.12.06-20.39.33:441][767]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.39.33:444][767]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.39.33
+[2017.12.06-20.39.33:445][767]LogWorld: Bringing up level for play took: 0.001828
+[2017.12.06-20.39.33:481][767]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.12.06-20.39.33:482][767]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.65
+[2017.12.06-20.39.34:911][895]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.34:979][901]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.35:140][916]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.35:216][923]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.35:370][937]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.35:370][937]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.35:434][943]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.36:310][ 23]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.39.36:310][ 23]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.39.36:310][ 23]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.39.36:393][ 30]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.36:393][ 30]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.36:416][ 32]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.36:574][ 46]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.41:858][521]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.39.41:883][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.39.41:883][521]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:39:41 AM)
+[2017.12.06-20.39.41:883][521]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.39.41:886][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003272s)
+[2017.12.06-20.39.41:887][521]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.39.41:887][521]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2017.12.06-20.39.41:887][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004040s)
+[2017.12.06-20.39.41:917][521]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.39.41:922][521]LogInit: FAudioDevice initialized.
+[2017.12.06-20.39.41:955][521]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.39.41:957][521]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.39.41
+[2017.12.06-20.39.41:957][521]LogWorld: Bringing up level for play took: 0.001559
+[2017.12.06-20.39.41:958][521]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.873
+[2017.12.06-20.39.43:107][627]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.43:107][627]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.43:130][629]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.43:292][644]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.43:463][660]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.44:828][786]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.44:828][786]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.44:851][788]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.39.44:851][788]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.39.44:851][788]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.39.44:887][791]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.46:089][901]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.46:089][901]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.46:143][906]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.46:955][980]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.46:955][980]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.47:009][985]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.47:856][ 63]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.39.47:857][ 63]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.39.47:857][ 63]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.39.48:292][103]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.48:292][103]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.48:325][106]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.50:860][341]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.39.50:861][341]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.39.50:861][341]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.39.51:835][431]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.51:912][438]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.52:086][454]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.52:086][454]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.52:458][488]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.53:516][586]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.53:516][586]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.53:560][590]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.53:723][605]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.39.53:791][611]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.39.53:866][618]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.39.53:866][618]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.39.53:866][618]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.40.46:418][268]BlueprintLog: New page: Compile wrap_teleport_bp
+[2017.12.06-20.40.47:583][346]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.40.47:613][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.40.47:613][346]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:40:47 AM)
+[2017.12.06-20.40.47:613][346]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.40.47:616][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003193s)
+[2017.12.06-20.40.47:617][346]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.40.47:617][346]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2017.12.06-20.40.47:617][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.003986s)
+[2017.12.06-20.40.47:648][346]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.40.47:654][346]LogInit: FAudioDevice initialized.
+[2017.12.06-20.40.47:686][346]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.40.47:688][346]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.40.47
+[2017.12.06-20.40.47:688][346]LogWorld: Bringing up level for play took: 0.001898
+[2017.12.06-20.40.47:689][346]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.858
+[2017.12.06-20.40.48:697][443]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:697][443]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:707][444]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:716][445]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:726][446]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:736][447]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:746][448]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:756][449]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:766][450]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:776][451]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:786][452]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:796][453]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:806][454]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:816][455]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:826][456]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:838][457]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:849][458]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:859][459]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:869][460]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:879][461]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:889][462]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:899][463]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:911][464]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:921][465]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:931][466]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:942][467]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:952][468]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:962][469]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:972][470]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:983][471]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.48:995][472]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:006][473]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:017][474]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:028][475]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:039][476]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:050][477]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:061][478]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:072][479]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:082][480]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:092][481]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:102][482]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:112][483]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:123][484]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:133][485]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:143][486]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:154][487]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:165][488]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:176][489]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:186][490]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:197][491]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:207][492]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:217][493]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:228][494]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:239][495]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:249][496]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:259][497]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:269][498]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:280][499]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:290][500]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:300][501]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:310][502]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:321][503]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:331][504]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:341][505]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:351][506]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:362][507]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:373][508]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:384][509]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:394][510]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:404][511]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:415][512]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:425][513]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:435][514]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:445][515]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:455][516]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:466][517]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:478][518]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:488][519]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:498][520]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:509][521]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:519][522]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:529][523]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:539][524]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:549][525]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:560][526]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:570][527]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:581][528]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:591][529]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:601][530]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:611][531]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:622][532]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:632][533]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:642][534]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:652][535]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:662][536]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:672][537]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:683][538]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:694][539]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:704][540]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:714][541]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:724][542]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:734][543]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:744][544]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:755][545]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:766][546]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:778][547]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:789][548]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:799][549]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:810][550]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:821][551]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:830][552]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:841][553]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:851][554]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:863][555]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:874][556]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:886][557]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:896][558]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:908][559]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:918][560]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:928][561]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:938][562]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:950][563]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:962][564]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:972][565]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:984][566]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.49:995][567]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.50:006][568]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.50:017][569]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.50:028][570]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.50:039][571]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.50:051][572]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.50:576][622]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.40.50:577][622]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.40.50:577][622]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.40.51:699][727]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:699][727]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:710][728]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:710][728]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:721][729]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:732][730]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:742][731]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:752][732]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:763][733]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:774][734]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:785][735]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:795][736]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:807][737]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:819][738]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:830][739]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:842][740]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:853][741]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:864][742]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:875][743]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:886][744]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:896][745]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:907][746]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:918][747]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:928][748]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:939][749]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:950][750]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:961][751]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:972][752]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:983][753]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.51:994][754]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:005][755]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:015][756]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:025][757]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:036][758]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:046][759]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:056][760]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:067][761]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:077][762]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:088][763]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:098][764]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:108][765]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:119][766]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:130][767]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:140][768]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:151][769]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:161][770]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:171][771]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:181][772]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:192][773]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:203][774]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:214][775]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:224][776]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:234][777]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:244][778]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:255][779]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:265][780]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:274][781]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:284][782]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:294][783]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:304][784]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:314][785]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:325][786]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:335][787]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:345][788]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:355][789]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:365][790]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:375][791]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:386][792]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:397][793]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:408][794]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:418][795]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:428][796]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:439][797]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:449][798]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:459][799]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:469][800]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:481][801]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:492][802]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:502][803]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:512][804]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:522][805]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:532][806]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:542][807]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:552][808]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:562][809]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:573][810]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:584][811]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:595][812]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:606][813]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:616][814]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:627][815]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:637][816]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:647][817]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:657][818]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:667][819]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:677][820]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:688][821]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:699][822]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:709][823]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:719][824]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:730][825]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:740][826]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:750][827]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:762][828]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:773][829]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:783][830]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:795][831]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:806][832]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:818][833]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:829][834]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:842][835]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:853][836]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:864][837]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:875][838]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:887][839]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:898][840]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:910][841]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:921][842]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:932][843]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.52:944][844]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.53:582][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.40.53:582][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.40.53:583][905]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.40.54:026][947]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:037][948]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:048][949]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:060][950]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:071][951]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:082][952]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:092][953]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:103][954]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:113][955]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:124][956]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:135][957]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:146][958]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:158][959]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:169][960]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:179][961]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:190][962]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:201][963]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:211][964]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:221][965]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:231][966]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:242][967]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:252][968]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:262][969]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:272][970]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:282][971]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:293][972]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:303][973]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:314][974]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:325][975]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:336][976]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:347][977]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:358][978]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:369][979]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:379][980]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:390][981]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:401][982]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:413][983]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:424][984]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:435][985]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:446][986]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:457][987]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:469][988]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:480][989]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:492][990]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:504][991]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:515][992]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:526][993]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:537][994]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:548][995]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:558][996]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:568][997]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:579][998]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:589][999]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:599][  0]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:609][  1]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:619][  2]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:630][  3]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:640][  4]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:651][  5]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:661][  6]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:672][  7]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:682][  8]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:693][  9]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:703][ 10]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:713][ 11]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:724][ 12]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:735][ 13]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:747][ 14]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:758][ 15]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:769][ 16]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:780][ 17]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:790][ 18]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:801][ 19]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:811][ 20]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:822][ 21]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.54:832][ 22]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:901][124]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:913][125]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:924][126]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:935][127]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:946][128]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:956][129]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:967][130]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:978][131]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.55:989][132]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:000][133]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:012][134]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:023][135]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:034][136]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:046][137]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:057][138]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:068][139]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:078][140]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:089][141]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:099][142]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:110][143]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:121][144]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:132][145]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:142][146]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:152][147]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:162][148]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:173][149]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:184][150]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:195][151]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:205][152]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:215][153]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:226][154]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:237][155]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:247][156]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:258][157]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:268][158]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:278][159]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:288][160]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:298][161]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:309][162]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:319][163]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:329][164]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:339][165]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:350][166]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:360][167]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:370][168]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:382][169]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:393][170]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:404][171]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:414][172]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:425][173]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:436][174]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:448][175]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:458][176]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:468][177]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:479][178]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:489][179]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:501][180]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:511][181]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:522][182]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:532][183]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:543][184]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:554][185]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:565][186]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:576][187]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:587][188]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.40.56:588][188]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.40.56:588][188]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.40.56:588][188]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:599][189]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:610][190]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:620][191]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:631][192]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:642][193]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:652][194]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:661][195]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:672][196]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:682][197]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:692][198]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:702][199]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:712][200]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:723][201]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:734][202]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:745][203]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:756][204]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:768][205]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:779][206]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:791][207]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:801][208]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:813][209]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:824][210]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:835][211]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:845][212]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:856][213]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:866][214]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:877][215]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:887][216]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:897][217]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:909][218]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:920][219]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:930][220]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:941][221]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:952][222]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:962][223]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:973][224]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:983][225]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.56:994][226]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:005][227]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:015][228]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:026][229]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:036][230]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:047][231]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:059][232]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:070][233]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:081][234]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:092][235]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:103][236]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:116][237]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:126][238]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:138][239]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:148][240]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:159][241]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:169][242]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:180][243]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:191][244]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:201][245]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:213][246]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:225][247]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:235][248]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:245][249]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:257][250]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:268][251]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:278][252]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:289][253]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:300][254]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:311][255]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:322][256]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:333][257]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:344][258]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:355][259]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:365][260]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:375][261]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.57:385][262]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:310][350]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:321][351]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:332][352]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:343][353]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:353][354]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:363][355]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:374][356]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:385][357]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:395][358]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:406][359]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:416][360]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:427][361]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:438][362]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:448][363]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:458][364]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:468][365]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:479][366]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:490][367]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:500][368]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:511][369]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:522][370]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:532][371]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:543][372]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:553][373]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:563][374]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:574][375]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:586][376]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:597][377]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:608][378]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:619][379]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:630][380]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:641][381]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:652][382]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:664][383]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:675][384]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:687][385]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:697][386]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:707][387]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:718][388]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:728][389]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:738][390]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:749][391]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:761][392]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:772][393]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:782][394]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:794][395]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:804][396]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:814][397]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:825][398]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:836][399]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:847][400]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:857][401]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:867][402]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:877][403]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:888][404]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:898][405]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:910][406]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.58:920][407]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.40.59:594][472]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.40.59:594][472]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.40.59:595][472]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.41.02:597][764]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.41.02:598][764]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.41.02:598][764]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.41.05:604][ 56]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.41.05:604][ 56]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.41.05:604][ 56]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.41.29:124][856]LogEditorTransaction: Undo Move Actors
+[2017.12.06-20.41.29:664][888]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.06-20.41.30:508][966]LogEditorTransaction: Undo Create Pin Link
+[2017.12.06-20.41.31:202][ 29]LogEditorTransaction: Undo Move Node
+[2017.12.06-20.41.31:753][ 79]LogEditorTransaction: Undo Break Pin Link
+[2017.12.06-20.41.32:325][131]LogEditorTransaction: Undo Create Pin Link
+[2017.12.06-20.41.47:196][448]BlueprintLog: New page: Compile wrap_teleport_bp
+[2017.12.06-20.41.48:199][508]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.41.48:229][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-20.41.48:229][508]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:41:48 AM)
+[2017.12.06-20.41.48:230][508]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.41.48:233][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003235s)
+[2017.12.06-20.41.48:233][508]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.41.48:233][508]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2017.12.06-20.41.48:234][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004010s)
+[2017.12.06-20.41.48:265][508]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.41.48:272][508]LogInit: FAudioDevice initialized.
+[2017.12.06-20.41.48:304][508]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.41.48:306][508]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.41.48
+[2017.12.06-20.41.48:306][508]LogWorld: Bringing up level for play took: 0.001825
+[2017.12.06-20.41.48:307][508]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 -0.523
+[2017.12.06-20.41.49:337][607]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.41.49:337][607]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.41.49:447][618]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.41.50:267][699]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.41.50:267][699]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.41.51:197][791]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.41.51:197][791]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.41.51:198][791]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.42.40:042][746]LogSavePackage: Save=75.43ms
+[2017.12.06-20.42.40:042][746]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/Level1_2565526D74A51678D737028A6CDFFE165.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap'
+[2017.12.06-20.42.40:045][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Maps/Level1_2.umap
+[2017.12.06-20.42.40:940][810]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-20.42.40:964][810]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.06-20.42.40:968][810]LogPlayLevel: [PlayLevel] Compiling wrap_teleport_bp before play...
+[2017.12.06-20.42.41:348][810]LogPlayLevel: PlayLevel: Blueprint regeneration took 383 ms (1 blueprints)
+[2017.12.06-20.42.41:348][810]PIE: New page: PIE session: Level1_2 (Dec 6, 2017, 6:42:41 AM)
+[2017.12.06-20.42.41:348][810]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2
+[2017.12.06-20.42.41:352][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003725s)
+[2017.12.06-20.42.41:352][810]LogAIModule: Creating AISystem for world Level1_2
+[2017.12.06-20.42.41:353][810]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2017.12.06-20.42.41:353][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/Level1_2.Level1_2 to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 (0.004440s)
+[2017.12.06-20.42.41:383][810]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-20.42.41:389][810]LogInit: FAudioDevice initialized.
+[2017.12.06-20.42.41:420][810]LogLoad: Game class is 'CastleOfPerditionGameMode'
+[2017.12.06-20.42.41:423][810]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2.Level1_2 up for play (max tick rate 0) at 2017.12.06-13.42.41
+[2017.12.06-20.42.41:423][810]LogWorld: Bringing up level for play took: 0.001761
+[2017.12.06-20.42.41:424][810]PIE: Play in editor start time for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_Level1_2 0.594
+[2017.12.06-20.42.42:277][894]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.42:277][894]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.44:040][ 70]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.42.44:041][ 70]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.42.44:041][ 70]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.42.47:043][367]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.42.47:043][367]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.42.47:044][367]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.42.47:284][391]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.47:284][391]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.48:481][508]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.48:481][508]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.49:513][609]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.49:513][609]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.50:047][660]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.42.50:048][660]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.42.50:048][660]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.42.50:434][697]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.51:179][769]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.51:179][769]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.51:676][818]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.51:676][818]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.52:606][910]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.52:606][910]LogBlueprintUserMessages: [wrap_teleport_bp] teleport
+[2017.12.06-20.42.53:056][954]LogBlueprintUserMessages: [Icicle_spawner_blueprint] Hello
+[2017.12.06-20.42.53:057][954]LogBlueprintUserMessages: [Icicle_spawner_blueprint2] Hello
+[2017.12.06-20.42.53:057][954]LogBlueprintUserMessages: [Icicle_spawner_blueprint3] Hello
+[2017.12.06-20.42.53:408][988]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.42.53:408][988]LogBlueprintUserMessages: [wrap_teleport_bp2] teleport
+[2017.12.06-20.43.02:304][807]BlueprintLog: New page: Compile wrap_teleport_bp
+[2017.12.06-20.43.21:627][508]LogEditorTransaction: Undo Break Pin Link
+[2017.12.06-20.43.23:412][653]LogSavePackage: Save=33.52ms
+[2017.12.06-20.43.23:412][653]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Saved/wrap_teleport_bp39206F32457F0BE3DD944BB0718849D3.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/wrap_teleport_bp.uasset'
+[2017.12.06-20.43.23:415][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/Team_heresy/CastleOfPerdition/Content/2DSideScrollerCPP/Blueprints/wrap_teleport_bp.uasset
+[2017.12.06-20.43.25:138][806]BlueprintLog: New page: Compile wrap_teleport_bp
+[2017.12.06-20.43.25:222][806]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.077 s
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: 
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: Ensure condition failed: GIsTransacting || Pin->LinkedTo.Contains(ReferencingPin) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1628]
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: 
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: Stack: 
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000932A2786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000009304123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000009305B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000791696DE UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000007916C90D UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000007916D425 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000007916D6CB UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000007916C62B UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000073F99892 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000073FE79D0 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000073FE8205 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000083C018C1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000077187E7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000077187D2E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000099D42CB0 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000099D185E1 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000099D1D9A2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000099D0AFF2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000075AE03FA UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000075A816FC UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000776861FE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000075A81133 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000075AD0FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000075AD5D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000083397BBF UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000008349D3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000833F76D2 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000833F8C29 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000083478C25 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000083532B27 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x000000008355EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000083375EFC UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x0000000083348095 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000833E28A7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000833CB092 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000833BD902 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000AC80E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000AC801A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000AC8103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000AC7FD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000C44DBC50 USER32.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000C44DB5CF USER32.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000AC811516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000DE1050C8 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000DE115430 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000DE1154AA UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000DE122379 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000DE123D57 UE4Editor.exe!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000C56D2774 KERNEL32.DLL!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: [Callstack] 0x00000000C6C20D51 ntdll.dll!UnknownFunction []
+[2017.12.06-20.43.25:223][806]LogOutputDevice: Error: 
+[2017.12.06-20.43.25:228][806]LogStats:                SubmitErrorReport -  0.000 s

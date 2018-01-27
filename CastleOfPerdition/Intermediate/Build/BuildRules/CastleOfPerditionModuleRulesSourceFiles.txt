@@ -1,0 +1,3 @@
+C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Source\CastleOfPerdition\CastleOfPerdition.Build.cs
+C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Source\CastleOfPerdition.Target.cs
+C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Source\CastleOfPerditionEditor.Target.cs

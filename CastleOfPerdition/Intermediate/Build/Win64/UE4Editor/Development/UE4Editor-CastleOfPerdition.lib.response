@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CastleOfPerdition.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\CastleOfPerdition.cpp.obj"
+"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\CastleOfPerditionCharacter.cpp.obj"
+"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\CastleOfPerditionGameMode.cpp.obj"
+"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\CastleOfPerdition.init.gen.cpp.obj"
+"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\CastleOfPerditionCharacter.gen.cpp.obj"
+"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\CastleOfPerditionGameMode.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\CastleOfPerdition\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\u1141834\Documents\Unreal Projects\CastleOfPerdition\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CastleOfPerdition.lib"

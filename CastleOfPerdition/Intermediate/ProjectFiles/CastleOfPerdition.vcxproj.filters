@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\CastleOfPerdition.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F7E2560F-C9F7-4D94-B266-9C0971E76798}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CastleOfPerdition.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\CastleOfPerditionEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{98A6F53C-0290-48AA-9FFF-91BB6B6782A5}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\CastleOfPerdition">
+			<UniqueIdentifier>{541D2571-B5F3-48DB-8915-B53488597594}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CastleOfPerdition\CastleOfPerdition.Build.cs">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\CastleOfPerdition\CastleOfPerdition.cpp">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CastleOfPerdition\CastleOfPerdition.h">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CastleOfPerdition\CastleOfPerditionCharacter.cpp">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CastleOfPerdition\CastleOfPerditionCharacter.h">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CastleOfPerdition\CastleOfPerditionGameMode.cpp">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CastleOfPerdition\CastleOfPerditionGameMode.h">
+			<Filter>Source\CastleOfPerdition</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
