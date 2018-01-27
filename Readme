@@ -1,8 +1,0 @@
-~Copy and move constructor for FixedSizeAllocator (file: FixedSizeAllocator.h, line: 18, 31)
-
-~Guardbanding in Fixed Size Allocator Alloc function (file: FixedSizeAllocator.cpp, line: 36 [AddGuardBand_start() and AddGuardBAnd_end() functions used])
-
-~_BitScanForward() and _BitScanForward64() in GetFirstSetBit() (file: BitArray.cpp, line: 116)
-
-~used override new in FixedSizeAllocator (file: FixedSizeAllocator-inl.h, line: 53)
-
