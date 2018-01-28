@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49964f5c3263bdc4a8fac70ace465419
+timeCreated: 1509607035
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BENetOpti
+  fontNames:
+  - BENetOpti
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

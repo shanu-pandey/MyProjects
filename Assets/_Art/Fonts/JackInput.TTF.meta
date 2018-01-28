@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d07df7465a9ef7b4f8866c95f5200ead
+timeCreated: 1508863434
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JackInput
+  fontNames:
+  - JackInput
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
