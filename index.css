@@ -1,0 +1,42 @@
+<style type="text/css">
+@font-face {
+    font-family: 'vector_battleregular';
+    src: url('assets/fonts/vectorb-webfont.woff2') format('woff2'),
+         url('assets/fonts/vectorb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+html{
+}
+body{
+    background-color:#000000;    
+}
+#VerticalBox{
+    width:1056px;
+    height:100%;
+    margin:0 auto;
+}
+#Header{
+    width:100%;
+    height:60px;
+}
+#MainBody{
+    margin:0 auto;
+}
+#Footer{
+    margin:0 auto;
+    width:100%;
+    height:0px;
+}
+#LeftCabinet{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 150px;
+}
+#RightCabinet{
+    position: fixed;
+    top: 0;
+    right: 250px;
+    width: 30px;
+}
