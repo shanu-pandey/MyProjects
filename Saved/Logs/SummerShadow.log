@@ -1,0 +1,1208 @@
+﻿Log file open, 06/13/18 16:49:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SummerShadow
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-110838882) SRandInit(-110838882).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254009
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.723s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am eae-g-z-14 (155.101.206.189:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.13-22.49.04:861][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.13-22.49.04:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.13-22.49.04:869][  0]LogInit: Computer: eae-g-z-14
+[2018.06.13-22.49.04:869][  0]LogInit: User: u1139622
+[2018.06.13-22.49.04:869][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.13-22.49.04:869][  0]LogInit: High frequency timer resolution =4.101567 MHz
+[2018.06.13-22.49.04:869][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.13-22.49.04:869][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.13-22.49.04:869][  0]LogMemory: Process Physical Memory: 276.26 MB used, 276.26 MB peak
+[2018.06.13-22.49.04:869][  0]LogMemory: Process Virtual Memory: 264.60 MB used, 264.60 MB peak
+[2018.06.13-22.49.04:869][  0]LogMemory: Physical Memory: 6686.15 MB used,  9571.21 MB free, 16257.36 MB total
+[2018.06.13-22.49.04:870][  0]LogMemory: Virtual Memory: 693.28 MB used,  9571.21 MB free, 134217728.00 MB total
+[2018.06.13-22.49.04:882][  0]LogInit: Using OS detected language (en-US).
+[2018.06.13-22.49.04:882][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.13-22.49.04:884][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.13-22.49.05:203][  0]LogStreaming: Display: Took  0.321s to EndInitTextLocalization.
+[2018.06.13-22.49.05:203][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.13-22.49.05:228][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.13-22.49.05:228][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.13-22.49.05:354][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.13-22.49.05:364][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.06.13-22.49.05:364][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.06.13-22.49.05:429][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.06.13-22.49.05:429][  0]LogD3D11RHI:       8096/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.13-22.49.05:430][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.13-22.49.05:430][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.13-22.49.05:430][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.06.13-22.49.05:435][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.13-22.49.05:435][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.13-22.49.05:435][  0]LogWindows: EnumDisplayDevices:
+[2018.06.13-22.49.05:435][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.06.13-22.49.05:435][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.13-22.49.05:435][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.13-22.49.05:436][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.06.13-22.49.05:436][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.13-22.49.05:436][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.13-22.49.05:436][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.13-22.49.05:436][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.13-22.49.05:436][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.06.13-22.49.05:436][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.13-22.49.05:436][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.13-22.49.05:436][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.06.13-22.49.05:456][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.06.13-22.49.05:456][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.13-22.49.05:456][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.13-22.49.05:476][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.13-22.49.05:477][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Intermediate/Shaders/WorkingDirectory/15632/).
+[2018.06.13-22.49.05:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1139622/AppData/Local/Temp/UnrealShaderWorkingDir/D193A226417D4427FDDDE68EC8571B63/'.
+[2018.06.13-22.49.05:631][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.13-22.49.05:641][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.13-22.49.05:651][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.13-22.49.05:661][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.13-22.49.05:671][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.13-22.49.05:681][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.13-22.49.05:691][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.13-22.49.05:701][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.13-22.49.05:706][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.13-22.49.05:715][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.13-22.49.05:724][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.13-22.49.05:732][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.13-22.49.05:741][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.13-22.49.05:750][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.13-22.49.05:758][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.13-22.49.05:776][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.13-22.49.05:776][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.13-22.49.05:784][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.13-22.49.05:785][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.13-22.49.05:818][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.13-22.49.05:826][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.13-22.49.05:835][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.13-22.49.05:844][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.13-22.49.05:853][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.13-22.49.05:862][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.13-22.49.05:862][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.13-22.49.05:937][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.13-22.49.05:937][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.13-22.49.05:937][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.13-22.49.06:462][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.13-22.49.06:513][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.13-22.49.06:513][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1139622/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.13-22.49.06:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.13-22.49.06:513][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.13-22.49.06:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.13-22.49.06:513][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.13-22.49.06:524][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.13-22.49.06:536][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1139622/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.13-22.49.06:536][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.13-22.49.06:536][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.13-22.49.06:544][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.13-22.49.06:545][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.13-22.49.06:545][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.13-22.49.06:545][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.13-22.49.06:637][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2018.06.13-22.49.06:870][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.13-22.49.06:917][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.13-22.49.06:919][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.13-22.49.06:919][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.13-22.49.06:919][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.13-22.49.06:919][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.13-22.49.06:919][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.13-22.49.07:027][  0]LogNetVersion: SummerShadow , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 842209323)
+[2018.06.13-22.49.07:343][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.061675 seconds
+[2018.06.13-22.49.07:347][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.13-22.49.07:347][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.13-22.49.07:347][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.13-22.49.08:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.13-22.49.08:536][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.13-22.49.08:787][  0]SourceControl: Source control is disabled
+[2018.06.13-22.49.08:787][  0]SourceControl: Source control is disabled
+[2018.06.13-22.49.08:800][  0]SourceControl: Source control is disabled
+[2018.06.13-22.49.08:811][  0]SourceControl: Source control is disabled
+[2018.06.13-22.49.09:158][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.13-22.49.09:266][  0]LogOcInput: OculusInput pre-init called
+[2018.06.13-22.49.09:342][  0]LogEngine: Initializing Engine...
+[2018.06.13-22.49.09:343][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.13-22.49.09:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.13-22.49.09:344][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.13-22.49.09:505][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.13-22.49.09:548][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-22.49.09:557][  0]LogInit: FAudioDevice initialized.
+[2018.06.13-22.49.09:611][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/u1139622/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.13-22.49.09:624][  0]LogInit: Texture streaming: Enabled
+[2018.06.13-22.49.09:635][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.13-22.49.09:649][  0]LogInit: Transaction tracking system initialized
+[2018.06.13-22.49.09:664][  0]BlueprintLog: New page: Editor Load
+[2018.06.13-22.49.09:717][  0]LocalizationService: Localization service is disabled
+[2018.06.13-22.49.09:798][  0]LogConsoleResponse: Display: 
+[2018.06.13-22.49.09:906][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.13-22.49.09:906][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.13-22.49.09:906][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.13-22.49.09:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.13-22.49.09:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.13-22.49.10:158][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/MyProjects/Content/' took 0.01s
+[2018.06.13-22.49.10:158][  0]SourceControl: Source control is disabled
+[2018.06.13-22.49.10:158][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.13-22.49.10:158][  0]LightingResults: New page: Lighting Build
+[2018.06.13-22.49.10:160][  0]MapCheck: New page: Map Check
+[2018.06.13-22.49.10:160][  0]LightingResults: New page: Lighting Build
+[2018.06.13-22.49.10:183][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab6c86980, Size=384, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-22.49.10:189][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aab77a5e90, Size=72, Default__AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-22.49.10:224][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab77a5e90, Size=72
+[2018.06.13-22.49.10:225][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa9f18d170, Size=72, Default__AJ_AnimBP_C Function /Engine/Transient.REINST_AJ_AnimBP_C_0:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-22.49.10:225][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aab6c86980, Size=384
+[2018.06.13-22.49.10:225][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa9f494880, Size=384, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_2:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-22.49.10:245][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aaa2a95ee0, Size=72, Default__AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-22.49.10:247][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aaa2aae680, Size=384, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-22.49.14:269][  0]LogTexture: Display: Building textures: Boy01_spec (AutoDXT, 2048X2048)
+[2018.06.13-22.49.14:269][  0]LogTexture: Display: Building textures: Boy01_normal (BC5, 2048X2048)
+[2018.06.13-22.49.14:269][  0]LogTexture: Display: Building textures: Boy01_FacialAnimMap (AutoDXT, 4096X4096)
+[2018.06.13-22.49.14:269][  0]LogTexture: Display: Building textures: Boy01_diffuse (AutoDXT, 2048X2048)
+[2018.06.13-22.49.14:269][  0]LogMaterial: Missing cached shader map for material Boy01_Brows_MAT1, compiling. 
+[2018.06.13-22.49.14:327][  0]LogMaterial: Missing cached shader map for material Boy01_Body_MAT, compiling. 
+[2018.06.13-22.49.14:348][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.13-22.49.14:348][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.13-22.49.14:348][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.13-22.49.14:348][  0]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.13-22.49.14:348][  0]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.13-22.49.14:348][  0]LogMaterial: Missing cached shader map for material Boy01_Mouth_MAT1, compiling. 
+[2018.06.13-22.49.14:366][  0]LogMaterial: Missing cached shader map for material Boy01_Eyes_MAT1, compiling. 
+[2018.06.13-22.49.14:484][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle.sword_and_shield_idle
+[2018.06.13-22.49.14:484][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle.sword_and_shield_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.49.14:488][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_jump.sword_and_shield_jump
+[2018.06.13-22.49.14:489][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_jump.sword_and_shield_jump) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.49.14:493][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.sword_and_shield_slash
+[2018.06.13-22.49.14:493][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.sword_and_shield_slash) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.49.14:525][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_run.sword_and_shield_run
+[2018.06.13-22.49.14:525][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_run.sword_and_shield_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.49.14:525][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk.sword_and_shield_walk
+[2018.06.13-22.49.14:526][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk.sword_and_shield_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.49.14:527][  0]LogStaticMesh: Building static mesh Sting-Sword-lowpoly...
+[2018.06.13-22.49.14:555][  0]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/Assets/Sting-Sword-lowpoly.Sting-Sword-lowpoly
+[2018.06.13-22.49.14:561][  0]LogSkeletalMesh: Building Skeletal Mesh aj...
+[2018.06.13-22.49.14:570][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Mixamo_AJ/aj.aj
+[2018.06.13-22.49.14:572][  0]LogMaterial: Missing cached shader map for material defaultMat, compiling. 
+[2018.06.13-22.49.14:598][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-22.49.14:624][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.13-22.49.14:634][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa9f494880, Size=384
+[2018.06.13-22.49.14:634][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa9f18d170, Size=72
+[2018.06.13-22.49.14:635][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.13-22.49.14:673][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.489ms to complete.
+[2018.06.13-22.49.14:673][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.515
+[2018.06.13-22.49.14:864][  0]LogCollectionManager: Loaded 0 collections in 0.002045 seconds
+[2018.06.13-22.49.14:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/MyProjects/Saved/Collections/' took 0.01s
+[2018.06.13-22.49.14:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/MyProjects/Content/Developers/u1139622/Collections/' took 0.01s
+[2018.06.13-22.49.14:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1139622/Documents/GitHub/MyProjects/Content/Collections/' took 0.01s
+[2018.06.13-22.49.14:925][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.13-22.49.14:940][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2452 classes and 558 folders.
+[2018.06.13-22.49.14:956][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.13-22.49.15:037][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.13-22.49.15:049][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.13-22.49.15:117][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.13-22.49.15:120][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.13-22.49.15:137][  0]LogSlate: Took 0.008625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.13-22.49.15:309][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.13-22.49.15:889][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.13-22.49.15:924][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.06.13-22.49.15:956][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.13-22.49.15:956][  0]LogLoad: (Engine Initialization) Total time: 12.89 seconds
+[2018.06.13-22.49.15:956][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.13-22.49.16:291][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.13-22.49.16:326][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.13-22.49.16:374][  0]LogSlate: Took 0.007062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.13-22.49.16:644][  1]LogAssetRegistry: Asset discovery search completed in 10.0288 seconds
+[2018.06.13-22.49.16:647][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.13-22.49.16:647][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.06.13-22.49.17:304][  4]LogShaderCompilers: Display: Shaders left to compile 293
+[2018.06.13-22.49.17:633][  4]LogShaderCompilers: Display: Shaders left to compile 283
+[2018.06.13-22.49.18:310][  7]LogShaderCompilers: Display: Shaders left to compile 273
+[2018.06.13-22.49.18:310][  7]LogShaderCompilers: Display: Shaders left to compile 263
+[2018.06.13-22.49.19:797][ 46]LogShaderCompilers: Display: Shaders left to compile 253
+[2018.06.13-22.49.20:302][ 91]LogShaderCompilers: Display: Shaders left to compile 243
+[2018.06.13-22.49.21:022][159]LogShaderCompilers: Display: Shaders left to compile 233
+[2018.06.13-22.49.21:317][182]LogShaderCompilers: Display: Shaders left to compile 223
+[2018.06.13-22.49.22:299][184]LogShaderCompilers: Display: Shaders left to compile 213
+[2018.06.13-22.49.22:439][194]LogShaderCompilers: Display: Shaders left to compile 203
+[2018.06.13-22.49.22:932][251]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.06.13-22.49.23:183][281]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.06.13-22.49.23:480][315]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.06.13-22.49.24:191][360]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.06.13-22.49.25:524][440]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.06.13-22.49.25:856][441]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.06.13-22.49.25:856][441]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.06.13-22.49.26:764][511]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.06.13-22.49.27:920][610]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.06.13-22.49.28:589][612]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.06.13-22.49.28:922][613]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.06.13-22.49.29:256][614]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.06.13-22.49.29:630][615]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.06.13-22.49.31:285][620]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.06.13-22.49.31:618][621]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.13-22.49.31:618][621]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.13-22.49.32:617][624]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.13-22.49.33:620][627]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.13-22.49.33:953][628]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.49.34:285][629]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-22.49.56:943][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-22.49.57:116][709]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Wall11)
+[2018.06.13-22.50.01:409][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-22.50.01:476][173]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-22.50.01:487][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.50.01:488][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-22.50.01:495][173]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 10:50:01 AM)
+[2018.06.13-22.50.01:495][173]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-22.50.01:513][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018068s)
+[2018.06.13-22.50.01:514][173]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-22.50.01:514][173]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.06.13-22.50.01:514][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019170s)
+[2018.06.13-22.50.01:529][173]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-22.50.01:536][173]LogInit: FAudioDevice initialized.
+[2018.06.13-22.50.01:583][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-22.50.01:589][173]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-16.50.01
+[2018.06.13-22.50.01:590][173]LogWorld: Bringing up level for play took: 0.002972
+[2018.06.13-22.50.01:602][173]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.06.13-22.50.01:604][173]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.351
+[2018.06.13-22.50.01:605][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.50.23:125][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.50.23:154][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.50.24:998][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-22.51.42:211][233]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sheath_sword_1.sheath_sword_1
+[2018.06.13-22.51.42:211][233]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sheath_sword_1.sheath_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.51.42:221][233]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.13-22.51.42:257][233]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.13-22.51.42:493][233]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-22.51.42:498][233]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.06.13-22.51.42:567][233]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.13-22.51.42:900][233]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.13-22.51.42:910][233]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-22.51.45:307][424]LogSlate: Window 'sheath_sword_1' being destroyed
+[2018.06.13-22.51.57:271][836]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sheath_sword_2.sheath_sword_2
+[2018.06.13-22.51.57:271][836]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sheath_sword_2.sheath_sword_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.51.59:487][ 82]LogSavePackage: Save=15.28ms
+[2018.06.13-22.51.59:487][ 82]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sheath_sword_244ACAD2B47843617AB31E09A40024661.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sheath_sword_2.uasset'
+[2018.06.13-22.51.59:492][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sheath_sword_2.uasset
+[2018.06.13-22.52.01:021][258]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn.sword_and_shield_180_turn
+[2018.06.13-22.52.01:022][258]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn.sword_and_shield_180_turn) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.03:298][511]LogSavePackage: Save=11.64ms
+[2018.06.13-22.52.03:298][511]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_180_turnC9A3E836454FDF64EA3854A72A6AF530.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn.uasset'
+[2018.06.13-22.52.03:301][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn.uasset
+[2018.06.13-22.52.04:543][647]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn__2_.sword_and_shield_180_turn__2_
+[2018.06.13-22.52.04:544][647]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn__2_.sword_and_shield_180_turn__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.06:594][871]LogSavePackage: Save=13.52ms
+[2018.06.13-22.52.06:594][871]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_180_turn__2_B7CBCB4A4DECAC723261879DF38A1C01.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn__2_.uasset'
+[2018.06.13-22.52.06:597][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_180_turn__2_.uasset
+[2018.06.13-22.52.08:025][ 27]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.sword_and_shield_attack
+[2018.06.13-22.52.08:025][ 27]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.sword_and_shield_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.10:115][258]LogSavePackage: Save=13.78ms
+[2018.06.13-22.52.10:115][258]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack9D76221E41C557D1D0A26E9C965313F1.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.13-22.52.10:118][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.13-22.52.11:491][412]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__2_.sword_and_shield_attack__2_
+[2018.06.13-22.52.11:491][412]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__2_.sword_and_shield_attack__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.13:442][620]LogSavePackage: Save=18.20ms
+[2018.06.13-22.52.13:442][620]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack__2_B807B53940E842DB3F29FE97594701DD.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__2_.uasset'
+[2018.06.13-22.52.13:445][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__2_.uasset
+[2018.06.13-22.52.15:619][869]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__3_.sword_and_shield_attack__3_
+[2018.06.13-22.52.15:619][869]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__3_.sword_and_shield_attack__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.17:707][ 92]LogSavePackage: Save=19.55ms
+[2018.06.13-22.52.17:707][ 92]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack__3_B12A2985468B51FF3369588BDF7314B4.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__3_.uasset'
+[2018.06.13-22.52.17:710][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__3_.uasset
+[2018.06.13-22.52.19:675][318]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__4_.sword_and_shield_attack__4_
+[2018.06.13-22.52.19:675][318]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__4_.sword_and_shield_attack__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.21:971][572]LogSavePackage: Save=12.50ms
+[2018.06.13-22.52.21:971][572]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack__4_A6A54ADA47D3DC9AE298E8AC2BB7C9B5.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__4_.uasset'
+[2018.06.13-22.52.21:973][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__4_.uasset
+[2018.06.13-22.52.23:837][777]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block.sword_and_shield_block
+[2018.06.13-22.52.23:837][777]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block.sword_and_shield_block) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.29:331][416]LogSavePackage: Save=11.19ms
+[2018.06.13-22.52.29:331][416]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_blockEEE57DA04892DF1D9A944CBFD880ABA4.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block.uasset'
+[2018.06.13-22.52.29:333][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block.uasset
+[2018.06.13-22.52.30:737][577]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block__2_.sword_and_shield_block__2_
+[2018.06.13-22.52.30:737][577]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block__2_.sword_and_shield_block__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.32:795][803]LogSavePackage: Save=12.87ms
+[2018.06.13-22.52.32:796][803]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_block__2_F0ACF7D744D7D001BCA8628D7B51ACB5.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block__2_.uasset'
+[2018.06.13-22.52.32:798][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block__2_.uasset
+[2018.06.13-22.52.36:047][177]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block_idle.sword_and_shield_block_idle
+[2018.06.13-22.52.36:047][177]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block_idle.sword_and_shield_block_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.38:995][510]LogSavePackage: Save=11.18ms
+[2018.06.13-22.52.38:995][510]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_block_idle107AB005478AC6EB56530889B17FD139.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block_idle.uasset'
+[2018.06.13-22.52.38:997][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_block_idle.uasset
+[2018.06.13-22.52.40:657][697]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting.sword_and_shield_casting
+[2018.06.13-22.52.40:657][697]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting.sword_and_shield_casting) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.43:127][970]LogSavePackage: Save=14.25ms
+[2018.06.13-22.52.43:127][970]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_casting353DC7E7410ABE097226A0BE624734AF.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting.uasset'
+[2018.06.13-22.52.43:129][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting.uasset
+[2018.06.13-22.52.44:768][155]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting__2_.sword_and_shield_casting__2_
+[2018.06.13-22.52.44:768][155]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting__2_.sword_and_shield_casting__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.46:485][337]LogSavePackage: Save=14.41ms
+[2018.06.13-22.52.46:485][337]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_casting__2_295EC7E440759D9BA5DC2AAE319D5318.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting__2_.uasset'
+[2018.06.13-22.52.46:487][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_casting__2_.uasset
+[2018.06.13-22.52.48:120][524]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch.sword_and_shield_crouch
+[2018.06.13-22.52.48:120][524]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch.sword_and_shield_crouch) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.50:266][759]LogSavePackage: Save=11.14ms
+[2018.06.13-22.52.50:266][759]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouch04A4B32B42174F4D43F2AFB7F97B5987.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch.uasset'
+[2018.06.13-22.52.50:269][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch.uasset
+[2018.06.13-22.52.52:143][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block.sword_and_shield_crouch_block
+[2018.06.13-22.52.52:143][976]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block.sword_and_shield_crouch_block) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.54:125][191]LogSavePackage: Save=13.99ms
+[2018.06.13-22.52.54:125][191]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouch_block796CE10943107BAE1DAB84A6BBC9493C.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block.uasset'
+[2018.06.13-22.52.54:127][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block.uasset
+[2018.06.13-22.52.55:843][388]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block__2_.sword_and_shield_crouch_block__2_
+[2018.06.13-22.52.55:843][388]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block__2_.sword_and_shield_crouch_block__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.52.57:886][611]LogSavePackage: Save=14.75ms
+[2018.06.13-22.52.57:886][611]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouch_block__2E8F0434541A6A681D85ECBA81636CD8E.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block__2_.uasset'
+[2018.06.13-22.52.57:888][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block__2_.uasset
+[2018.06.13-22.53.00:234][876]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block_idle.sword_and_shield_crouch_block_idle
+[2018.06.13-22.53.00:234][876]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block_idle.sword_and_shield_crouch_block_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.02:311][107]LogSavePackage: Save=10.93ms
+[2018.06.13-22.53.02:312][107]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouch_block_id5A2ABE094AFC08A711848E9D9AACD1FD.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block_idle.uasset'
+[2018.06.13-22.53.02:314][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_block_idle.uasset
+[2018.06.13-22.53.04:111][312]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_idle.sword_and_shield_crouch_idle
+[2018.06.13-22.53.04:111][312]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_idle.sword_and_shield_crouch_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.06:130][535]LogSavePackage: Save=13.25ms
+[2018.06.13-22.53.06:130][535]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouch_idle1760902A4BBAEC1347BD5A8357D66898.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_idle.uasset'
+[2018.06.13-22.53.06:132][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouch_idle.uasset
+[2018.06.13-22.53.10:060][993]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching.sword_and_shield_crouching
+[2018.06.13-22.53.10:060][993]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching.sword_and_shield_crouching) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.13:286][358]LogSavePackage: Save=10.93ms
+[2018.06.13-22.53.13:286][358]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouching7040BAC14015530804FD2D9B7C294594.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching.uasset'
+[2018.06.13-22.53.13:288][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching.uasset
+[2018.06.13-22.53.14:729][521]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__2_.sword_and_shield_crouching__2_
+[2018.06.13-22.53.14:729][521]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__2_.sword_and_shield_crouching__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.16:661][731]LogSavePackage: Save=11.40ms
+[2018.06.13-22.53.16:661][731]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouching__2_D060F3D44F4D0119FE626899BC9E41C1.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__2_.uasset'
+[2018.06.13-22.53.16:663][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__2_.uasset
+[2018.06.13-22.53.18:093][890]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__3_.sword_and_shield_crouching__3_
+[2018.06.13-22.53.18:093][890]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__3_.sword_and_shield_crouching__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.19:805][ 76]LogSavePackage: Save=11.35ms
+[2018.06.13-22.53.19:806][ 76]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_crouching__3_EB4BAE264EBEAB510F3579B69564CAF4.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__3_.uasset'
+[2018.06.13-22.53.19:808][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_crouching__3_.uasset
+[2018.06.13-22.53.21:304][246]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death.sword_and_shield_death
+[2018.06.13-22.53.21:304][246]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death.sword_and_shield_death) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.23:484][486]LogSavePackage: Save=12.41ms
+[2018.06.13-22.53.23:484][486]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_death5BF8B2874384852E575BFE85EB1FEB71.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death.uasset'
+[2018.06.13-22.53.23:486][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death.uasset
+[2018.06.13-22.53.24:844][639]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death__2_.sword_and_shield_death__2_
+[2018.06.13-22.53.24:844][639]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death__2_.sword_and_shield_death__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.26:806][854]LogSavePackage: Save=12.92ms
+[2018.06.13-22.53.26:806][854]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_death__2_ABCE966A4F54F9D77690DFAA3CA21D0A.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death__2_.uasset'
+[2018.06.13-22.53.26:809][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_death__2_.uasset
+[2018.06.13-22.53.30:604][204]LogSavePackage: Save=11.71ms
+[2018.06.13-22.53.30:604][204]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_idle460BC03E45D7E0200503E29DB8B47528.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle.uasset'
+[2018.06.13-22.53.30:606][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle.uasset
+[2018.06.13-22.53.32:597][433]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__2_.sword_and_shield_idle__2_
+[2018.06.13-22.53.32:597][433]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__2_.sword_and_shield_idle__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.34:624][652]LogSavePackage: Save=14.61ms
+[2018.06.13-22.53.34:624][652]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_idle__2_2DFB070144B30B72E3393795C29B97A5.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__2_.uasset'
+[2018.06.13-22.53.34:626][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__2_.uasset
+[2018.06.13-22.53.36:486][865]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__3_.sword_and_shield_idle__3_
+[2018.06.13-22.53.36:486][865]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__3_.sword_and_shield_idle__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.38:803][124]LogSavePackage: Save=11.61ms
+[2018.06.13-22.53.38:803][124]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_idle__3_AD6601C04DA88756D4736BAEB7E60147.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__3_.uasset'
+[2018.06.13-22.53.38:805][124]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__3_.uasset
+[2018.06.13-22.53.40:823][359]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__4_.sword_and_shield_idle__4_
+[2018.06.13-22.53.40:824][359]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__4_.sword_and_shield_idle__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.43:348][643]LogSavePackage: Save=14.31ms
+[2018.06.13-22.53.43:348][643]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_idle__4_CEE7F69C4E66F7B7654D728B7893DB33.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__4_.uasset'
+[2018.06.13-22.53.43:350][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_idle__4_.uasset
+[2018.06.13-22.53.45:414][883]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact.sword_and_shield_impact
+[2018.06.13-22.53.45:414][883]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact.sword_and_shield_impact) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.47:093][ 64]LogSavePackage: Save=11.15ms
+[2018.06.13-22.53.47:093][ 64]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_impact2AEE6ED44D7FD95EF3EE10AB965EDB38.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact.uasset'
+[2018.06.13-22.53.47:095][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact.uasset
+[2018.06.13-22.53.48:385][211]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__2_.sword_and_shield_impact__2_
+[2018.06.13-22.53.48:385][211]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__2_.sword_and_shield_impact__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.50:303][420]LogSavePackage: Save=14.06ms
+[2018.06.13-22.53.50:304][420]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_impact__2_EDEC6DAC4AD55EF612AE3A80665E29B1.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__2_.uasset'
+[2018.06.13-22.53.50:306][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__2_.uasset
+[2018.06.13-22.53.51:634][572]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__3_.sword_and_shield_impact__3_
+[2018.06.13-22.53.51:635][572]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__3_.sword_and_shield_impact__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.53.53:726][804]LogSavePackage: Save=11.63ms
+[2018.06.13-22.53.53:726][804]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_impact__3_97C7E89E4F246EACCDBE9B8017CEC91E.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__3_.uasset'
+[2018.06.13-22.53.53:728][804]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_impact__3_.uasset
+[2018.06.13-22.53.58:812][384]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_jump__2_.sword_and_shield_jump__2_
+[2018.06.13-22.53.58:812][384]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_jump__2_.sword_and_shield_jump__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.00:839][603]LogSavePackage: Save=16.03ms
+[2018.06.13-22.54.00:839][603]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_jump__2_967CAA8C43008CD9C17E649CD6EB6CE2.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_jump__2_.uasset'
+[2018.06.13-22.54.00:842][603]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_jump__2_.uasset
+[2018.06.13-22.54.27:734][636]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_kick.sword_and_shield_kick
+[2018.06.13-22.54.27:735][636]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_kick.sword_and_shield_kick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.29:778][861]LogSavePackage: Save=13.33ms
+[2018.06.13-22.54.29:778][861]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_kick5DA5D4CF4331132A1668E18D31189A06.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_kick.uasset'
+[2018.06.13-22.54.29:781][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_kick.uasset
+[2018.06.13-22.54.31:028][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_power_up.sword_and_shield_power_up
+[2018.06.13-22.54.31:028][  2]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_power_up.sword_and_shield_power_up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.33:931][331]LogSavePackage: Save=11.43ms
+[2018.06.13-22.54.33:931][331]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_power_up94E022B04BC2B8DEEDD2C19B10D77548.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_power_up.uasset'
+[2018.06.13-22.54.33:933][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_power_up.uasset
+[2018.06.13-22.54.37:469][732]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_run__2_.sword_and_shield_run__2_
+[2018.06.13-22.54.37:469][732]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_run__2_.sword_and_shield_run__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.39:790][990]LogSavePackage: Save=12.19ms
+[2018.06.13-22.54.39:790][990]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_run__2_F2E7E1384D8A338CFD6E79BD69EBBFF9.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_run__2_.uasset'
+[2018.06.13-22.54.39:792][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_run__2_.uasset
+[2018.06.13-22.54.44:204][491]LogSavePackage: Save=15.22ms
+[2018.06.13-22.54.44:204][491]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash266173E34BD5695401BE73849176E605.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.13-22.54.44:206][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.13-22.54.46:193][723]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__2_.sword_and_shield_slash__2_
+[2018.06.13-22.54.46:193][723]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__2_.sword_and_shield_slash__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.48:376][954]LogSavePackage: Save=27.24ms
+[2018.06.13-22.54.48:376][954]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__2_95CE301B47EA8BB98BB6058D7777A55B.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__2_.uasset'
+[2018.06.13-22.54.48:378][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__2_.uasset
+[2018.06.13-22.54.49:909][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.sword_and_shield_slash__3_
+[2018.06.13-22.54.49:909][129]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.sword_and_shield_slash__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.51:733][327]LogSavePackage: Save=12.15ms
+[2018.06.13-22.54.51:734][327]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_6A1D37584F88E6824700E49D485F6FF9.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.13-22.54.51:736][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.13-22.54.53:950][585]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__4_.sword_and_shield_slash__4_
+[2018.06.13-22.54.53:950][585]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__4_.sword_and_shield_slash__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.54.55:792][777]LogSavePackage: Save=22.32ms
+[2018.06.13-22.54.55:792][777]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__4_1AE934584CB296CFC605ACA4086BAA71.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__4_.uasset'
+[2018.06.13-22.54.55:794][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__4_.uasset
+[2018.06.13-22.55.25:571][798]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__5_.sword_and_shield_slash__5_
+[2018.06.13-22.55.25:572][798]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__5_.sword_and_shield_slash__5_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.27:453][999]LogSavePackage: Save=21.30ms
+[2018.06.13-22.55.27:453][999]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__5_8D8F24C34F2041053932E8BAB5717D20.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__5_.uasset'
+[2018.06.13-22.55.27:456][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__5_.uasset
+[2018.06.13-22.55.28:671][138]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe.sword_and_shield_strafe
+[2018.06.13-22.55.28:671][138]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe.sword_and_shield_strafe) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.33:193][640]LogSavePackage: Save=11.22ms
+[2018.06.13-22.55.33:193][640]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_strafeE59F037F4DB9C72B50A28695A5D2D92A.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe.uasset'
+[2018.06.13-22.55.33:195][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe.uasset
+[2018.06.13-22.55.34:557][798]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__2_.sword_and_shield_strafe__2_
+[2018.06.13-22.55.34:557][798]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__2_.sword_and_shield_strafe__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.37:375][114]LogSavePackage: Save=13.64ms
+[2018.06.13-22.55.37:375][114]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_strafe__2_882A5D244B44125C7880DCBBEDE203C5.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__2_.uasset'
+[2018.06.13-22.55.37:378][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__2_.uasset
+[2018.06.13-22.55.38:748][270]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__3_.sword_and_shield_strafe__3_
+[2018.06.13-22.55.38:748][270]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__3_.sword_and_shield_strafe__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.41:156][539]LogSavePackage: Save=11.02ms
+[2018.06.13-22.55.41:156][539]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_strafe__3_7F2E756848F6458A0FFDFF9F52DB02CD.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__3_.uasset'
+[2018.06.13-22.55.41:158][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__3_.uasset
+[2018.06.13-22.55.42:702][718]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__4_.sword_and_shield_strafe__4_
+[2018.06.13-22.55.42:702][718]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__4_.sword_and_shield_strafe__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.44:682][935]LogSavePackage: Save=11.03ms
+[2018.06.13-22.55.44:683][935]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_strafe__4_C5CF746140F98B33BA7F14A594D17683.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__4_.uasset'
+[2018.06.13-22.55.44:685][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_strafe__4_.uasset
+[2018.06.13-22.55.46:026][ 90]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn.sword_and_shield_turn
+[2018.06.13-22.55.46:027][ 90]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn.sword_and_shield_turn) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.48:054][311]LogSavePackage: Save=11.58ms
+[2018.06.13-22.55.48:054][311]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_turnD52BE5C144C36A3256600184CB89E582.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn.uasset'
+[2018.06.13-22.55.48:056][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn.uasset
+[2018.06.13-22.55.49:309][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn__2_.sword_and_shield_turn__2_
+[2018.06.13-22.55.49:309][456]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn__2_.sword_and_shield_turn__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.51:098][649]LogSavePackage: Save=11.04ms
+[2018.06.13-22.55.51:098][649]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_turn__2_67C8C149428997A7E0C65E967CBA126A.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn__2_.uasset'
+[2018.06.13-22.55.51:100][649]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn__2_.uasset
+[2018.06.13-22.55.55:836][194]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.sword_and_shield_walk__2_
+[2018.06.13-22.55.55:836][194]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.sword_and_shield_walk__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.13-22.55.58:039][440]LogSavePackage: Save=10.97ms
+[2018.06.13-22.55.58:039][440]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_walk__2_3CD2FEFE4772EE09BD9B0DA52CDA50F2.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.uasset'
+[2018.06.13-22.55.58:041][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.uasset
+[2018.06.13-22.56.00:049][676]LogSavePackage: Save=4.78ms
+[2018.06.13-22.56.00:049][676]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_walk__2_B74D7EC24F78573D5A2E5880BD1C5EFD.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.uasset'
+[2018.06.13-22.56.00:050][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.uasset
+[2018.06.13-22.56.08:065][594]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-22.56.08:073][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.56.08:074][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-22.56.08:074][594]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 10:56:08 AM)
+[2018.06.13-22.56.08:074][594]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-22.56.08:085][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011629s)
+[2018.06.13-22.56.08:086][594]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-22.56.08:086][594]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.06.13-22.56.08:086][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012409s)
+[2018.06.13-22.56.08:097][594]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-22.56.08:105][594]LogInit: FAudioDevice initialized.
+[2018.06.13-22.56.08:138][594]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-22.56.08:139][594]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-16.56.08
+[2018.06.13-22.56.08:139][594]LogWorld: Bringing up level for play took: 0.001112
+[2018.06.13-22.56.08:140][594]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.185
+[2018.06.13-22.56.08:141][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.56.34:552][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.56.34:581][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-22.58.53:967][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-22.59.04:450][582]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1139622\Downloads\Captain America shield.obj)
+[2018.06.13-22.59.04:474][582]LogFbx: Loading FBX Scene from C:\Users\u1139622\Downloads\Captain America shield.obj
+[2018.06.13-22.59.04:504][582]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.13-22.59.26:016][582]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.06.13-22.59.26:057][582]LogFbx: Loading FBX Scene from C:\Users\u1139622\Downloads\Captain America shield.obj
+[2018.06.13-22.59.26:082][582]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.13-22.59.26:089][582]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-22.59.26:095][582]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.13-22.59.26:095][582]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-22.59.26:095][582]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-22.59.26:095][582]LogFbx: Warning: Triangulating static mesh Shield
+[2018.06.13-22.59.26:217][582]LogStaticMesh: Building static mesh Captain_America_shield...
+[2018.06.13-22.59.26:299][582]LogStaticMesh: Built static mesh [0.08s] /Game/ThirdPersonBP/Assets/Captain_America_shield.Captain_America_shield
+[2018.06.13-22.59.26:333][582]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.13-22.59.30:058][ 16]LogSlate: Window 'Message Log' being destroyed
+[2018.06.13-22.59.30:062][ 16]LogSlate: Window 'Message Log' being destroyed
+[2018.06.13-22.59.31:562][164]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.06.13-22.59.44:684][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-22.59.49:122][230]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-22.59.49:210][230]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-22.59.49:222][230]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-22.59.49:222][230]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-22.59.49:222][230]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-22.59.49:222][230]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.59.49:245][230]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-22.59.49:259][230]LogSlate: Took 0.005151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.13-22.59.49:407][231]LogSlate: Took 0.003454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.13-22.59.49:695][264]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-22.59.49:721][267]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.59.49:729][268]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-22.59.49:736][269]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-22.59.49:836][281]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-22.59.49:862][284]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-22.59.49:870][285]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-22.59.50:015][302]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-22.59.50:040][305]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-22.59.50:133][316]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-22.59.50:174][321]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-22.59.50:209][325]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-22.59.50:344][337]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-22.59.50:377][341]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-22.59.50:456][350]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.06.13-22.59.50:456][350]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.06.13-22.59.50:456][350]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.13-22.59.50:456][350]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.13-22.59.57:845][232]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-22.59.57:855][232]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-22.59.57:856][232]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-22.59.57:856][232]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-22.59.57:856][232]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.59.57:857][232]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-22.59.58:017][248]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-22.59.58:018][248]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.59.58:032][250]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-22.59.58:032][250]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-22.59.58:141][263]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-22.59.58:159][265]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-22.59.58:167][266]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-22.59.58:315][283]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-22.59.58:330][285]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-22.59.58:440][298]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-22.59.58:470][298]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-22.59.58:479][300]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-22.59.58:634][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-22.59.58:651][320]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-22.59.58:755][332]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.13-22.59.58:755][332]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.13-22.59.58:755][332]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.13-22.59.58:755][332]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.13-22.59.59:190][384]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-22.59.59:200][384]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-22.59.59:200][384]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-22.59.59:200][384]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-22.59.59:200][384]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.59.59:201][384]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-22.59.59:362][398]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-22.59.59:379][400]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-22.59.59:379][400]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-22.59.59:379][400]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-22.59.59:487][413]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-22.59.59:515][416]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-22.59.59:522][417]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-22.59.59:670][434]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-22.59.59:677][435]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-22.59.59:812][451]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-22.59.59:845][455]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-22.59.59:846][455]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-23.00.00:003][471]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-23.00.00:020][473]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-23.00.00:124][485]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.13-23.00.00:124][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.13-23.00.00:124][485]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.13-23.00.00:124][485]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.13-23.00.00:742][559]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.00:752][559]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.00:753][559]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.00:753][559]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.00:753][559]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.00:754][559]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-23.00.00:909][571]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.00:918][573]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.00:935][575]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.00:941][576]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.01:054][589]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.01:054][589]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.01:070][591]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.01:221][609]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.01:221][609]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.01:356][622]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-23.00.01:373][624]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-23.00.01:390][626]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-23.00.01:536][643]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-23.00.01:561][646]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-23.00.01:666][658]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.13-23.00.01:666][658]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.06.13-23.00.01:666][658]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.13-23.00.01:666][658]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.13-23.00.02:090][709]LogEditorTransaction: Undo Create Pin Link
+[2018.06.13-23.00.02:092][709]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.02:140][709]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.02:140][709]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.02:140][709]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.02:140][709]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.02:299][709]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.02:299][709]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.02:299][709]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.02:299][709]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.02:299][709]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.02:318][709]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.02:332][709]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-23.00.02:389][709]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.13-23.00.02:389][709]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.13-23.00.02:389][709]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.02:531][714]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.02:531][714]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.02:533][715]LogEditorTransaction: Undo Create Pin Link
+[2018.06.13-23.00.02:537][715]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.02:594][715]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-23.00.02:594][715]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.13-23.00.02:701][715]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.02:701][715]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.02:701][715]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.02:758][715]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.02:758][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.02:779][715]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.02:792][715]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.02:794][715]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-23.00.02:807][715]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.13-23.00.02:847][715]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.02:847][715]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.02:941][722]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.02:956][723]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.02:962][723]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.02:984][724]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.02:986][724]LogEditorTransaction: Undo Create Pin Link
+[2018.06.13-23.00.03:008][724]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.03:068][724]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.13-23.00.03:179][724]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.13-23.00.03:179][724]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.03:243][724]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.03:243][724]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.03:244][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.03:261][724]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.03:261][724]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.03:263][724]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.03:278][724]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.13-23.00.03:400][730]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.13-23.00.03:403][730]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.13-23.00.03:408][730]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.03:412][730]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.03:560][737]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.03:575][738]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.03:580][738]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.03:580][738]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.03:700][751]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.03:718][753]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.03:726][754]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.03:856][769]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.03:889][773]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.04:000][786]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-23.00.04:026][789]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-23.00.04:059][793]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-23.00.04:178][807]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-23.00.04:229][813]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-23.00.04:307][822]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.06.13-23.00.04:307][822]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.06.13-23.00.04:307][822]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.13-23.00.04:307][822]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.13-23.00.05:740][994]LogEditorTransaction: Undo Move Node
+[2018.06.13-23.00.05:889][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.05:902][994]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.05:928][995]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.05:928][995]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.05:928][995]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.05:928][995]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.06:053][  3]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.06:070][  4]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.06:077][  4]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.06:086][  5]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.06:190][ 15]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.06:227][ 19]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.06:227][ 19]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.06:367][ 35]LogEditorTransaction: Undo Move Node
+[2018.06.13-23.00.06:424][ 35]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-23.00.06:424][ 35]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-23.00.06:538][ 35]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-23.00.06:538][ 35]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-23.00.06:589][ 35]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-23.00.06:589][ 35]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.06:610][ 35]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.06:697][ 40]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.06:717][ 41]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.06:734][ 42]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.06:776][ 44]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.06:811][ 47]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.06.13-23.00.06:865][ 47]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.06:980][ 47]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.06:980][ 47]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.06:980][ 47]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.07:037][ 47]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.07:037][ 47]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.07:037][ 47]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.07:037][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.07:058][ 47]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.07:070][ 47]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.06.13-23.00.07:252][ 47]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.07:252][ 47]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.07:319][ 47]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.07:319][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.07:343][ 47]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.07:382][ 47]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.07:382][ 47]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.07:386][ 48]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.07:471][ 54]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.07:502][ 55]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.06.13-23.00.07:553][ 55]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.07:553][ 55]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.07:553][ 55]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.07:661][ 55]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.07:661][ 55]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.07:661][ 55]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.07:718][ 55]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.07:718][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.07:741][ 55]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.07:823][ 60]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.07:845][ 61]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.07:907][ 64]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.07:955][ 66]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.08:001][ 71]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.08:009][ 72]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.08:081][ 80]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.08:091][ 81]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.08:133][ 86]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.08:149][ 88]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.08:158][ 89]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.06.13-23.00.08:212][ 89]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.08:322][ 89]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-23.00.08:380][ 89]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-23.00.08:380][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.08:399][ 89]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-23.00.08:402][ 89]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.08:414][ 89]LogEditorTransaction: Undo Edit EnableRootMotion
+[2018.06.13-23.00.08:467][ 89]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.08:572][ 89]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.08:629][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.08:629][ 89]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.08:629][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.08:629][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.08:648][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.08:650][ 89]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.08:661][ 89]LogEditorTransaction: Undo Edit EnableRootMotion
+[2018.06.13-23.00.08:715][ 89]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.08:832][ 89]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.08:832][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.08:832][ 89]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.08:889][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.08:889][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.08:889][ 89]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.08:889][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.13-23.00.08:902][ 89]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.08:904][ 89]LogMaterial: Missing cached shader map for material ShieldMat, compiling. 
+[2018.06.13-23.00.09:001][ 89]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.13-23.00.09:019][ 89]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.13-23.00.09:019][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.13-23.00.09:143][ 89]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.13-23.00.09:161][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.13-23.00.09:161][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.13-23.00.09:162][ 89]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.13-23.00.09:250][ 89]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.13-23.00.09:268][ 89]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.13-23.00.09:268][ 89]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.13-23.00.09:286][ 89]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.13-23.00.09:410][ 89]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.13-23.00.09:481][ 89]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.13-23.00.09:517][ 89]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.13-23.00.09:517][ 89]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.13-23.00.09:606][ 89]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.13-23.00.12:495][ 89]LogSlate: Window 'Message' being destroyed
+[2018.06.13-23.00.20:009][936]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.Actor_1.DebugSkelMeshComponent_61) Already registered. Aborting.
+[2018.06.13-23.00.20:024][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_72:PersistentLevel.Actor_1.DebugSkelMeshComponent_61) - call TermArticulated first.
+[2018.06.13-23.00.57:087][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.00.59:135][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.01.02:641][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.01.23:633][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.01.55:756][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.02.28:912][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.02.42:833][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.03.03:066][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.03.31:985][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.03.58:931][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.04.03:239][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.04.31:216][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.04.37:533][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.04.37:769][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/aj_Skeleton" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset" SILENT=true
+[2018.06.13-23.04.37:784][629]LogSavePackage: Save=5.82ms
+[2018.06.13-23.04.37:784][629]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/aj_Skeleton0730772B4A22542240E06EAD404B310C.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset'
+[2018.06.13-23.04.37:786][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset
+[2018.06.13-23.04.45:157][369]LogSlate: Window 'Save Content' being destroyed
+[2018.06.13-23.04.45:195][369]LogSavePackage: Save=11.30ms
+[2018.06.13-23.04.45:195][369]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Captain_America_shield4FF1A4B04AA8A4BCE039B4A8FC773D65.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Assets/Captain_America_shield.uasset'
+[2018.06.13-23.04.45:197][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Assets/Captain_America_shield.uasset
+[2018.06.13-23.04.45:210][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Assets/ShieldMat" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Assets/ShieldMat.uasset" SILENT=true
+[2018.06.13-23.04.45:221][369]LogSavePackage: Save=10.07ms
+[2018.06.13-23.04.45:221][369]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ShieldMat69C553E34E6951E37A91B58FE8651CD4.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Assets/ShieldMat.uasset'
+[2018.06.13-23.04.45:223][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Assets/ShieldMat.uasset
+[2018.06.13-23.04.45:254][369]LogSavePackage: Save=10.92ms
+[2018.06.13-23.04.45:254][369]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_turn__2_9A3085FC469A7AE0E30DCB81C53536AC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn__2_.uasset'
+[2018.06.13-23.04.45:257][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_turn__2_.uasset
+[2018.06.13-23.04.45:286][369]LogSavePackage: Save=10.98ms
+[2018.06.13-23.04.45:286][369]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_walk__2_DD257D8444E86709D07265A59F967237.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.uasset'
+[2018.06.13-23.04.45:288][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_walk__2_.uasset
+[2018.06.13-23.04.51:182][956]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.06.13-23.04.56:869][602]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.06.13-23.04.57:054][602]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab09a162d8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.13-23.04.57:054][602]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab09a162d0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.13-23.05.39:562][517]BlueprintLog: New page: Compile Shield
+[2018.06.13-23.05.40:236][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Shield" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset" SILENT=true
+[2018.06.13-23.05.40:251][559]LogSavePackage: Save=13.31ms
+[2018.06.13-23.05.40:251][559]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Shield69E3EA0945F3338F4CDF78BA9F18AE31.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset'
+[2018.06.13-23.05.40:253][559]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset
+[2018.06.13-23.05.59:537][766]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.05.59:550][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.05.59:550][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.05.59:550][766]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:05:59 AM)
+[2018.06.13-23.05.59:550][766]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.05.59:561][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011136s)
+[2018.06.13-23.05.59:562][766]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.05.59:562][766]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2018.06.13-23.05.59:562][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011851s)
+[2018.06.13-23.05.59:596][766]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.05.59:605][766]LogInit: FAudioDevice initialized.
+[2018.06.13-23.05.59:638][766]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.05.59:640][766]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.05.59
+[2018.06.13-23.05.59:640][766]LogWorld: Bringing up level for play took: 0.001149
+[2018.06.13-23.05.59:641][766]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.316
+[2018.06.13-23.05.59:642][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.06.13:840][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.06.13:869][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.06.15:390][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.06.15:519][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab53208dc0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.06.13-23.06.15:521][645]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab53208dc0, Size=88
+[2018.06.13-23.06.15:521][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab53208dc0, Size=88, Default__Landscape_Painting_Mode_C Function /Engine/Transient.REINST_Landscape_Painting_Mode_C_32:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.06.13-23.06.15:523][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abf86c7150, Size=80, Default__Landscape_Painting_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Painting_Mode.Landscape_Painting_Mode_C:ExecuteUbergraph_Landscape_Painting_Mode
+[2018.06.13-23.06.15:529][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab53208160, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.06.13-23.06.15:531][645]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab53208160, Size=88
+[2018.06.13-23.06.15:531][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab53208160, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_34:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.06.13-23.06.15:532][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abf86c5df0, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.06.13-23.06.15:541][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab96d2f380, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2018.06.13-23.06.15:545][645]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab96d2f380, Size=64
+[2018.06.13-23.06.15:545][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab96d2f8c0, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Transient.REINST_CreatingSigningCertAndProvisionTutorial_C_36:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2018.06.13-23.06.15:548][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab96d2ea00, Size=64, Default__CreatingSigningCertAndProvisionTutorial_C Function /Engine/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.CreatingSigningCertAndProvisionTutorial_C:ExecuteUbergraph_CreatingSigningCertAndProvisionTutorial
+[2018.06.13-23.06.15:578][645]LogSlate: Window 'Tutorials' being destroyed
+[2018.06.13-23.06.17:390][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.06.13-23.06.18:072][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.13-23.06.18:607][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.06.13-23.06.19:420][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.06.30:078][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.06.40:820][578]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.13-23.06.42:076][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.07.07:655][549]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.13-23.08.20:636][ 13]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.13-23.08.20:658][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aaa2aae680, Size=384
+[2018.06.13-23.08.20:658][ 13]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab36d8e080, Size=384, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_41:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.08.20:664][ 13]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab45da4200, Size=464, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.08.20:994][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab96d2f8c0, Size=64
+[2018.06.13-23.08.20:995][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab53208160, Size=88
+[2018.06.13-23.08.20:995][ 13]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab53208dc0, Size=88
+[2018.06.13-23.08.21:641][ 66]LogSavePackage: Save=37.83ms
+[2018.06.13-23.08.21:641][ 66]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonCharacter4615B0C447E920004F716FA0E4F8E0C6.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.13-23.08.21:644][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.13-23.08.23:387][248]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.08.23:421][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.08.23:421][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.08.23:421][248]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:08:23 AM)
+[2018.06.13-23.08.23:421][248]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.08.23:431][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010163s)
+[2018.06.13-23.08.23:432][248]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.08.23:432][248]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.06.13-23.08.23:432][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010921s)
+[2018.06.13-23.08.23:477][248]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.08.23:485][248]LogInit: FAudioDevice initialized.
+[2018.06.13-23.08.23:516][248]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.08.23:517][248]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.08.23
+[2018.06.13-23.08.23:518][248]LogWorld: Bringing up level for play took: 0.001339
+[2018.06.13-23.08.23:519][248]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.439
+[2018.06.13-23.08.23:519][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.08.31:006][144]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-158.18 Y=155.58 Z=0.00 Location: X=333.13 Y=522.11 Z=228.45 Normal: X=0.68 Y=-0.73 Z=0.00 PenetrationDepth:0.961 Actor:Shield_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.06.13-23.08.33:482][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.08.33:516][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.08.36:700][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.08.46:726][  2]BlueprintLog: New page: Compile Shield
+[2018.06.13-23.08.47:657][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Shield" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset" SILENT=true
+[2018.06.13-23.08.47:677][ 71]LogSavePackage: Save=13.07ms
+[2018.06.13-23.08.47:677][ 71]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ShieldFBE8415743A40B290D40B4A3EF119DD2.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset'
+[2018.06.13-23.08.47:679][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset
+[2018.06.13-23.08.50:013][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.13-23.08.56:344][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.08.56:411][ 92]BlueprintLog: New page: Compile Shield
+[2018.06.13-23.08.56:954][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Shield" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset" SILENT=true
+[2018.06.13-23.08.56:970][111]LogSavePackage: Save=12.47ms
+[2018.06.13-23.08.56:970][111]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Shield7BAA203A4965F4B6F35548AC1D2F81CC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset'
+[2018.06.13-23.08.56:972][111]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset
+[2018.06.13-23.08.57:467][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.08.58:735][322]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.08.58:747][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.08.58:747][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.08.58:747][322]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:08:58 AM)
+[2018.06.13-23.08.58:747][322]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.08.58:758][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010123s)
+[2018.06.13-23.08.58:758][322]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.08.58:758][322]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.06.13-23.08.58:758][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010862s)
+[2018.06.13-23.08.58:779][322]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.08.58:786][322]LogInit: FAudioDevice initialized.
+[2018.06.13-23.08.58:815][322]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.08.58:817][322]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.08.58
+[2018.06.13-23.08.58:817][322]LogWorld: Bringing up level for play took: 0.001094
+[2018.06.13-23.08.58:818][322]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.86
+[2018.06.13-23.08.58:818][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.04:772][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.04:805][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.05:962][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.09.08:344][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.09.13:288][ 27]BlueprintLog: New page: Compile Shield
+[2018.06.13-23.09.13:877][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Shield" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset" SILENT=true
+[2018.06.13-23.09.13:893][ 59]LogSavePackage: Save=12.93ms
+[2018.06.13-23.09.13:893][ 59]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ShieldD223455045730C9BE32C37B2DC83F64D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset'
+[2018.06.13-23.09.13:896][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/Shield.uasset
+[2018.06.13-23.09.14:249][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.09.15:340][232]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.09.15:353][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.15:353][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.09.15:353][232]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:09:15 AM)
+[2018.06.13-23.09.15:353][232]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.09.15:363][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009321s)
+[2018.06.13-23.09.15:363][232]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.09.15:363][232]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2018.06.13-23.09.15:363][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010061s)
+[2018.06.13-23.09.15:384][232]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.09.15:391][232]LogInit: FAudioDevice initialized.
+[2018.06.13-23.09.15:424][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.09.15:426][232]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.09.15
+[2018.06.13-23.09.15:426][232]LogWorld: Bringing up level for play took: 0.001169
+[2018.06.13-23.09.15:427][232]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.531
+[2018.06.13-23.09.15:428][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.31:547][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.31:582][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.09.52:184][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.09.55:778][900]LogSlate: Window 'Save Content' being destroyed
+[2018.06.13-23.09.55:961][900]LogSavePackage: Save=86.88ms
+[2018.06.13-23.09.55:961][900]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap954857B84D95B84FB15BC799B0D7655D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.13-23.09.55:964][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.13-23.09.55:987][900]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.193
