@@ -1206,3 +1206,389 @@ LogInit: Object subsystem initialized
 [2018.06.13-23.09.55:961][900]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap954857B84D95B84FB15BC799B0D7655D.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2018.06.13-23.09.55:964][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
 [2018.06.13-23.09.55:987][900]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.193
+[2018.06.13-23.19.29:831][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba2a2c510, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.37:503][423]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba2a2c510, Size=4
+[2018.06.13-23.19.37:503][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab42f278f8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_67:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.37:506][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab42f25dd0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.39:083][590]LogSlate: Took 0.003466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.13-23.19.39:953][692]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab42f25dd0, Size=4
+[2018.06.13-23.19.39:953][692]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab42f25dd0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_69:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.39:955][692]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab42f27db0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.43:289][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab42f27db0, Size=4
+[2018.06.13-23.19.43:290][763]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba2a2d8e0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_71:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.43:292][763]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba2a2d908, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.46:397][117]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba2a2d908, Size=4
+[2018.06.13-23.19.46:397][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab42f267c8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_73:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.46:399][117]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab42f26228, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.49:774][504]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab42f26228, Size=4
+[2018.06.13-23.19.49:774][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba2a2c410, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_75:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.49:777][504]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba2a2dbb8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.19.54:532][ 43]LogSavePackage: Save=85.80ms
+[2018.06.13-23.19.54:532][ 43]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap_Auto1976312DF4751E18115DC0CAF8100A567.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.06.13-23.19.54:534][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.06.13-23.19.54:537][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.126
+[2018.06.13-23.19.54:537][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.126
+[2018.06.13-23.19.54:538][ 43]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.06.13-23.19.54:547][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.06.13-23.19.54:547][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.06.13-23.19.54:591][ 43]LogSavePackage: Save=36.98ms
+[2018.06.13-23.19.54:591][ 43]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonCharacter_Auto14AA1017F4832C419AB37E3B62ED37F7F.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.06.13-23.19.54:592][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.06.13-23.19.54:592][ 43]LogFileHelpers: Auto-saving content packages took 0.055
+[2018.06.13-23.20.11:988][157]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba2a2dbb8, Size=4
+[2018.06.13-23.20.11:988][157]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab48cdaf88, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_81:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.20.11:991][157]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab48cdb080, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.20.17:386][791]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab48cdb080, Size=4
+[2018.06.13-23.20.17:386][791]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab41e0cfd8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_83:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.20.17:389][791]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab41e0c708, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.20.57:192][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab41e0c708, Size=4
+[2018.06.13-23.20.57:192][610]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab496ac098, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_85:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.20.57:195][610]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab496ac0f8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.21.02:168][194]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab496ac0f8, Size=4
+[2018.06.13-23.21.02:168][194]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab5d75b198, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_87:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.21.02:171][194]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab5d758df0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.27.24:869][599]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.13-23.27.24:882][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab5d758df0, Size=4
+[2018.06.13-23.27.24:882][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba2a2d3b8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_89:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.27.24:897][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab45da4200, Size=464
+[2018.06.13-23.27.24:897][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab4e899200, Size=464, ThirdPersonCharacter_C_147 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_92:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.27.24:904][599]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abfc182a00, Size=496, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.27.25:153][599]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba2a2d3b8, Size=4
+[2018.06.13-23.27.26:372][723]LogSavePackage: Save=45.35ms
+[2018.06.13-23.27.26:372][723]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonCharacter10052A9C44B59D533100AD87DE99D4AC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.13-23.27.26:377][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.13-23.28.31:906][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.30.04:416][  9]LogSavePackage: Save=9.97ms
+[2018.06.13-23.30.04:416][  9]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3__Compo4B72775E4DAE853DF8FAAC860C803882.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3__Composite.uasset'
+[2018.06.13-23.30.04:418][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3__Composite.uasset
+[2018.06.13-23.30.04:436][  9]LogSlate: Took 0.007228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.06.13-23.30.04:446][  9]LogSlate: Took 0.008601 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2018.06.13-23.30.12:974][757]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.13-23.30.13:584][757]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-23.30.13:648][757]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-23.30.16:370][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_78:PersistentLevel.Actor_2.DebugSkelMeshComponent_63) Already registered. Aborting.
+[2018.06.13-23.30.16:400][992]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_78:PersistentLevel.Actor_2.DebugSkelMeshComponent_63) - call TermArticulated first.
+[2018.06.13-23.30.16:621][992]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.30.18:585][217]LogSlate: Window 'sword_and_shield_slash__3_' being destroyed
+[2018.06.13-23.30.18:588][217]LogSlate: Window 'sword_and_shield_slash__3_' being destroyed
+[2018.06.13-23.30.34:738][116]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.Actor_3.DebugSkelMeshComponent_65) Already registered. Aborting.
+[2018.06.13-23.30.34:765][116]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_80:PersistentLevel.Actor_3.DebugSkelMeshComponent_65) - call TermArticulated first.
+[2018.06.13-23.30.34:973][116]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.30.46:342][413]LogSlate: Window 'sword_and_shield_slash__2_' being destroyed
+[2018.06.13-23.30.46:345][413]LogSlate: Window 'sword_and_shield_slash__2_' being destroyed
+[2018.06.13-23.30.51:570][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.Actor_4.DebugSkelMeshComponent_67) Already registered. Aborting.
+[2018.06.13-23.30.51:597][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_82:PersistentLevel.Actor_4.DebugSkelMeshComponent_67) - call TermArticulated first.
+[2018.06.13-23.30.51:811][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.30.55:964][444]LogSlate: Window 'sword_and_shield_attack' being destroyed
+[2018.06.13-23.30.55:967][444]LogSlate: Window 'sword_and_shield_attack' being destroyed
+[2018.06.13-23.30.56:771][519]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.Actor_5.DebugSkelMeshComponent_69) Already registered. Aborting.
+[2018.06.13-23.30.56:798][519]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_84:PersistentLevel.Actor_5.DebugSkelMeshComponent_69) - call TermArticulated first.
+[2018.06.13-23.30.57:012][519]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.31.03:377][241]LogSlate: Window 'sword_and_shield_attack__2_' being destroyed
+[2018.06.13-23.31.03:379][241]LogSlate: Window 'sword_and_shield_attack__2_' being destroyed
+[2018.06.13-23.31.04:374][338]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.Actor_6.DebugSkelMeshComponent_71) Already registered. Aborting.
+[2018.06.13-23.31.04:401][338]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_86:PersistentLevel.Actor_6.DebugSkelMeshComponent_71) - call TermArticulated first.
+[2018.06.13-23.31.04:618][338]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.31.45:363][553]LogSlate: Window 'sword_and_shield_attack' being destroyed
+[2018.06.13-23.31.45:366][553]LogSlate: Window 'sword_and_shield_attack' being destroyed
+[2018.06.13-23.32.06:965][ 60]LogSavePackage: Save=10.14ms
+[2018.06.13-23.32.06:965][ 60]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_1_AnimMontageC4AB16AF46A1B0F47CBF94A9E103EF87.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset'
+[2018.06.13-23.32.06:969][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset
+[2018.06.13-23.32.06:993][ 60]LogSavePackage: Save=12.72ms
+[2018.06.13-23.32.06:993][ 60]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_2_AnimMontage1E6319284EB526E2D51EA791DBA43288.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset'
+[2018.06.13-23.32.06:995][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset
+[2018.06.13-23.32.07:017][ 60]LogSavePackage: Save=10.13ms
+[2018.06.13-23.32.07:017][ 60]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontage6D8B1B9F43302AED3688B5A09D1BB796.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.13-23.32.07:019][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.13-23.32.09:478][216]LogSlate: Window 'Save Content' being destroyed
+[2018.06.13-23.32.09:660][216]LogSavePackage: Save=83.88ms
+[2018.06.13-23.32.09:660][216]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap5A84B48A46ADFA2A75E785A0E85D62EB.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.13-23.32.09:665][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.13-23.32.09:689][216]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.198
+[2018.06.13-23.32.14:863][731]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.06.13-23.32.35:389][842]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.13-23.32.35:415][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abfc182a00, Size=496
+[2018.06.13-23.32.35:415][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab84c43a00, Size=496, ThirdPersonCharacter_C_166 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_101:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.32.35:421][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab3b7b3ac0, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.32.35:749][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab4e899200, Size=464
+[2018.06.13-23.32.35:749][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab42f267c8, Size=4
+[2018.06.13-23.32.35:749][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab5d75b198, Size=4
+[2018.06.13-23.32.35:749][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab42f278f8, Size=4
+[2018.06.13-23.32.35:749][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba2a2d8e0, Size=4
+[2018.06.13-23.32.35:749][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab36d8e080, Size=384
+[2018.06.13-23.32.35:750][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab496ac098, Size=4
+[2018.06.13-23.32.35:750][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab42f25dd0, Size=4
+[2018.06.13-23.32.35:750][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab41e0cfd8, Size=4
+[2018.06.13-23.32.35:750][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba2a2c410, Size=4
+[2018.06.13-23.32.35:750][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab48cdaf88, Size=4
+[2018.06.13-23.32.38:526][133]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.32.38:546][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.32.38:546][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.32.38:546][133]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:32:38 AM)
+[2018.06.13-23.32.38:546][133]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.32.38:557][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010284s)
+[2018.06.13-23.32.38:557][133]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.32.38:557][133]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.06.13-23.32.38:557][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011011s)
+[2018.06.13-23.32.38:602][133]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.32.38:609][133]LogInit: FAudioDevice initialized.
+[2018.06.13-23.32.38:639][133]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.32.38:642][133]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.32.38
+[2018.06.13-23.32.38:642][133]LogWorld: Bringing up level for play took: 0.001088
+[2018.06.13-23.32.38:643][133]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.683
+[2018.06.13-23.32.38:643][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.32.44:685][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.32.44:718][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.32.45:488][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.33.25:607][575]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.13-23.33.25:612][575]LogSlate: Window 'Components' being destroyed
+[2018.06.13-23.33.25:615][575]LogSlate: Window 'Components' being destroyed
+[2018.06.13-23.33.25:845][575]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab84c43a00, Size=496
+[2018.06.13-23.33.31:830][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.Actor_7.DebugSkelMeshComponent_73) Already registered. Aborting.
+[2018.06.13-23.33.31:857][252]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_89:PersistentLevel.Actor_7.DebugSkelMeshComponent_73) - call TermArticulated first.
+[2018.06.13-23.33.32:079][252]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.33.34:335][506]LogSlate: Window 'sword_and_shield_slash' being destroyed
+[2018.06.13-23.33.34:338][506]LogSlate: Window 'sword_and_shield_slash' being destroyed
+[2018.06.13-23.33.54:160][825]LogSavePackage: Save=10.39ms
+[2018.06.13-23.33.54:160][825]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_1_AnimMontage08ADD803432DB2DB31EB8DB2B8899068.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset'
+[2018.06.13-23.33.54:162][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset
+[2018.06.13-23.33.56:008][918]LogSlate: Window 'Save Content' being destroyed
+[2018.06.13-23.33.56:082][918]LogSavePackage: Save=45.40ms
+[2018.06.13-23.33.56:082][918]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonCharacterDB1BC9B84225B01D1CBC6C9AE6C146CA.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.13-23.33.56:084][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.13-23.33.56:236][918]LogSavePackage: Save=82.27ms
+[2018.06.13-23.33.56:236][918]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap303BD22A44EDE06A0AAB3CB27381584C.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.13-23.33.56:239][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.13-23.33.56:254][918]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.168
+[2018.06.13-23.34.01:198][418]LogSlate: Window 'Components' being destroyed
+[2018.06.13-23.34.01:201][418]LogSlate: Window 'Components' being destroyed
+[2018.06.13-23.34.02:502][557]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.06.13-23.34.17:456][128]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.13-23.34.17:484][128]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab3b7b3ac0, Size=432
+[2018.06.13-23.34.17:484][128]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab5cd17c80, Size=432, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_110:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.34.17:489][128]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab5cd15280, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.34.18:365][181]LogSavePackage: Save=44.90ms
+[2018.06.13-23.34.18:365][181]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonCharacter503336F04829C3DEEA2CE188BA5A7B69.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.13-23.34.18:368][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.13-23.34.24:573][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.34.24:742][891]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) - call TermArticulated first.
+[2018.06.13-23.34.36:798][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab5334b478, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.02:837][279]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab5334b478, Size=4
+[2018.06.13-23.35.02:837][279]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab470986c0, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_6:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.02:843][279]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab470990e0, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.07:601][831]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab470990e0, Size=4
+[2018.06.13-23.35.07:601][831]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba65ab3e0, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_7:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.07:607][831]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba65ab540, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.21:724][322]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba65ab540, Size=4
+[2018.06.13-23.35.21:724][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab47099090, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_8:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.21:730][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab47098ea8, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.31:780][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab47098ea8, Size=4
+[2018.06.13-23.35.31:780][503]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba5f968d8, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_9:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.31:786][503]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab496ae818, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.41:473][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab496ae818, Size=4
+[2018.06.13-23.35.41:473][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab7a783478, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_10:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.41:479][655]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab7a7836a8, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.54:977][219]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab7a7836a8, Size=4
+[2018.06.13-23.35.54:977][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab83ff3920, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_11:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.54:983][219]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab83ff2120, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.59:053][692]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab83ff2120, Size=4
+[2018.06.13-23.35.59:053][692]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa9f8c1090, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_12:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.35.59:060][692]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aa9f8c01f8, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.36.06:553][275]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa9f8c01f8, Size=4
+[2018.06.13-23.36.06:553][275]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab00646bc8, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_13:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.36.06:559][275]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab00647688, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.36.12:450][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab00647688, Size=4
+[2018.06.13-23.36.12:450][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab83ff3c30, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_14:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.36.12:456][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab83ff3e28, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.37.18:477][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.Actor_9.DebugSkelMeshComponent_77) Already registered. Aborting.
+[2018.06.13-23.37.18:498][260]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_95:PersistentLevel.Actor_9.DebugSkelMeshComponent_77) - call TermArticulated first.
+[2018.06.13-23.37.21:158][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.37.21:175][543]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) - call TermArticulated first.
+[2018.06.13-23.39.06:373][883]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab83ff3e28, Size=4
+[2018.06.13-23.39.06:373][883]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba5f96638, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_15:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.39.06:379][883]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba5f94bc0, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.39.23:560][419]BlueprintLog: New page: Compile AJ_AnimBP
+[2018.06.13-23.39.23:570][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba5f94bc0, Size=4
+[2018.06.13-23.39.23:570][419]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab496ad480, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_16:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.39.23:580][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aaa2a95ee0, Size=72
+[2018.06.13-23.39.23:580][419]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab24c9d990, Size=72, Default__AJ_AnimBP_C Function /Engine/Transient.REINST_AJ_AnimBP_C_17:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.39.23:587][419]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab24b35990, Size=72, Default__AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.39.23:589][419]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.39.23:591][419]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.39.23:591][419]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.39.23:591][419]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.39.23:591][419]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba65ab3e0, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab47099090, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab470986c0, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba5f968d8, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab7a783478, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab83ff3920, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aa9f8c1090, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab00646bc8, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab83ff3c30, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001aba5f96638, Size=4
+[2018.06.13-23.39.23:672][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab496ad480, Size=4
+[2018.06.13-23.39.25:041][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset" SILENT=true
+[2018.06.13-23.39.25:101][577]LogSavePackage: Save=51.59ms
+[2018.06.13-23.39.25:101][577]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AJ_AnimBPB1D19E594596657CBA601F9289C3D1B2.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset'
+[2018.06.13-23.39.25:103][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset
+[2018.06.13-23.39.33:996][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.39.34:011][397]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) - call TermArticulated first.
+[2018.06.13-23.39.34:245][397]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.40.10:603][827]LogSavePackage: Save=10.40ms
+[2018.06.13-23.40.10:603][827]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_1_AnimMontage4619F9DC4BAD43CA6A2290A09D5E9344.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset'
+[2018.06.13-23.40.10:606][827]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset
+[2018.06.13-23.40.16:810][274]LogSavePackage: Save=10.22ms
+[2018.06.13-23.40.16:810][274]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_2_AnimMontage2BD676AF42E946367FBAC39815E14A57.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset'
+[2018.06.13-23.40.16:812][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset
+[2018.06.13-23.40.25:051][236]LogSavePackage: Save=10.16ms
+[2018.06.13-23.40.25:051][236]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontage2A1E4B1740566F7474C3DAA377485842.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.13-23.40.25:053][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.13-23.40.38:838][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.40.50:229][365]LogSavePackage: Save=9.91ms
+[2018.06.13-23.40.50:229][365]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontageD69EA116405B453767602DB45737CF02.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.13-23.40.50:232][365]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.13-23.41.17:544][325]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.13-23.41.45:125][844]LogEditorTransaction: Undo Edit Root Motion Mode
+[2018.06.13-23.41.45:341][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.41.45:347][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.41.45:349][844]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.41.45:349][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.41.47:252][ 59]LogEditorTransaction: Undo Edit Root Motion Mode
+[2018.06.13-23.41.47:471][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.41.47:480][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.41.47:482][ 59]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.41.47:482][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.41.48:977][235]LogEditorTransaction: Undo Edit Root Motion Mode
+[2018.06.13-23.41.49:198][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.41.49:207][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.41.49:209][235]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.41.49:209][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.41.50:397][374]LogEditorTransaction: Undo Edit Root Motion Mode
+[2018.06.13-23.41.50:619][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.41.50:628][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.41.50:630][374]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.41.50:630][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.41.51:875][520]LogEditorTransaction: Undo Move Node
+[2018.06.13-23.41.51:881][520]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab58b88fe0, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.41.52:121][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.41.52:130][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.41.52:132][520]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.41.52:132][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.41.54:740][820]LogEditorTransaction: Redo Move Node
+[2018.06.13-23.41.54:741][820]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab58b88fe0, Size=4
+[2018.06.13-23.41.54:741][820]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abb6341c98, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_19:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.41.54:747][820]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abb6341f90, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.41.54:997][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_97:PersistentLevel.Actor_11.DebugSkelMeshComponent_79) Already registered. Aborting.
+[2018.06.13-23.41.55:007][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_10.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.06.13-23.41.55:009][820]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class AJ_AnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2018.06.13-23.41.55:009][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.Actor_8.DebugSkelMeshComponent_75) Already registered. Aborting.
+[2018.06.13-23.42.11:003][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab24c9d990, Size=72
+[2018.06.13-23.42.11:003][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abb6341c98, Size=4
+[2018.06.13-23.42.12:286][763]LogSlate: Window 'Save Content' being destroyed
+[2018.06.13-23.42.12:469][763]LogSavePackage: Save=88.04ms
+[2018.06.13-23.42.12:469][763]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap93A09E744CA44C4E2579538851C19B75.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.13-23.42.12:472][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.13-23.42.12:487][763]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.186
+[2018.06.13-23.42.12:497][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset" SILENT=true
+[2018.06.13-23.42.12:553][763]LogSavePackage: Save=50.93ms
+[2018.06.13-23.42.12:553][763]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AJ_AnimBPEA0D4BC24AAD758D2DF16D95DCCD9172.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset'
+[2018.06.13-23.42.12:555][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset
+[2018.06.13-23.42.12:559][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/aj_Skeleton" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset" SILENT=true
+[2018.06.13-23.42.12:572][763]LogSavePackage: Save=5.10ms
+[2018.06.13-23.42.12:572][763]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/aj_Skeleton2593ECE948CDB8E4211801A7BA0CB27F.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset'
+[2018.06.13-23.42.12:574][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset
+[2018.06.13-23.42.12:599][763]LogSavePackage: Save=10.58ms
+[2018.06.13-23.42.12:599][763]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontageD56729FF4D45AF21478C14811371A912.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.13-23.42.12:602][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.13-23.43.47:901][ 23]LogSavePackage: Save=6.19ms
+[2018.06.13-23.43.47:901][ 23]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_1_AnimMontage657026E14D931169334F198F99678D48.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset'
+[2018.06.13-23.43.47:903][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset
+[2018.06.13-23.43.55:442][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.44.58:878][ 35]LogSavePackage: Save=5.12ms
+[2018.06.13-23.44.58:879][ 35]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_2_AnimMontageF8ABEAD84DCE82E8C41BDF8A59B62456.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset'
+[2018.06.13-23.44.58:880][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset
+[2018.06.13-23.45.17:577][262]LogSavePackage: Save=4.11ms
+[2018.06.13-23.45.17:577][262]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontage12F20DCF4D1AF1F26164C29136AB7786.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.13-23.45.17:579][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.13-23.45.29:221][656]LogSavePackage: Save=4.72ms
+[2018.06.13-23.45.29:221][656]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontage57711DBD458D5E3B6193D6BF3D49BCAD.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.13-23.45.29:222][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.13-23.45.31:570][825]LogSlate: Window 'Save Content' being destroyed
+[2018.06.13-23.45.31:586][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/aj_Skeleton" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset" SILENT=true
+[2018.06.13-23.45.31:595][825]LogSavePackage: Save=4.82ms
+[2018.06.13-23.45.31:595][825]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/aj_Skeleton3BEDB8934729FC510D879B9D28068E01.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset'
+[2018.06.13-23.45.31:597][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/aj_Skeleton.uasset
+[2018.06.13-23.54.52:789][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abb6341f90, Size=4
+[2018.06.13-23.54.52:789][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab84f78960, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_20:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.54.52:795][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab84f78d58, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.55.26:270][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab84f78d58, Size=4
+[2018.06.13-23.55.26:270][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abb2413148, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_21:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.55.26:276][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abb24137e0, Size=4, Default__SKEL_AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.SKEL_AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.55.49:452][950]BlueprintLog: New page: Compile AJ_AnimBP
+[2018.06.13-23.55.49:463][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abb24137e0, Size=4
+[2018.06.13-23.55.49:463][950]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab45fd7010, Size=4, Default__SKEL_AJ_AnimBP_C Function /Engine/Transient.REINST_SKEL_AJ_AnimBP_C_22:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.55.49:474][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab24b35990, Size=72
+[2018.06.13-23.55.49:474][950]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abb62c0310, Size=72, Default__AJ_AnimBP_C Function /Engine/Transient.REINST_AJ_AnimBP_C_23:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.55.49:481][950]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab9f269480, Size=120, Default__AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.13-23.55.49:557][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abb2413148, Size=4
+[2018.06.13-23.55.49:557][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab84f78960, Size=4
+[2018.06.13-23.55.49:557][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab45fd7010, Size=4
+[2018.06.13-23.55.50:034][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset" SILENT=true
+[2018.06.13-23.55.50:096][999]LogSavePackage: Save=53.64ms
+[2018.06.13-23.55.50:096][999]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AJ_AnimBP5B8E2BCC4E08486C4A0A75807A65411E.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset'
+[2018.06.13-23.55.50:099][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset
+[2018.06.13-23.55.52:918][333]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.55.52:958][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.55.52:958][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.55.52:958][333]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:55:52 AM)
+[2018.06.13-23.55.52:958][333]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.55.52:969][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010476s)
+[2018.06.13-23.55.52:969][333]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.55.52:969][333]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.06.13-23.55.52:969][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011261s)
+[2018.06.13-23.55.52:987][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abb62c0310, Size=72
+[2018.06.13-23.55.52:990][333]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.55.52:997][333]LogInit: FAudioDevice initialized.
+[2018.06.13-23.55.53:028][333]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.55.53:031][333]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.55.53
+[2018.06.13-23.55.53:031][333]LogWorld: Bringing up level for play took: 0.001202
+[2018.06.13-23.55.53:032][333]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.07
+[2018.06.13-23.55.53:032][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.56.06:359][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.56.06:391][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.56.10:149][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.56.45:321][698]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.13-23.56.45:356][698]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab5cd15280, Size=432
+[2018.06.13-23.56.45:356][698]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab7b5e1280, Size=432, ThirdPersonCharacter_C_202 Function /Engine/Transient.REINST_ThirdPersonCharacter_C_138:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.56.45:361][698]LogUObjectGlobals: Created PersistentFrame Addr=0x000001abbc8c5b40, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.13-23.56.46:254][756]LogSavePackage: Save=45.12ms
+[2018.06.13-23.56.46:254][756]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonCharacter092A385A4E516DABF6041EA264FAE238.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.13-23.56.46:256][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.13-23.56.48:389][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.56.48:425][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.56.48:425][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.56.48:426][ 10]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:56:48 AM)
+[2018.06.13-23.56.48:426][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.56.48:436][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010394s)
+[2018.06.13-23.56.48:437][ 10]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.56.48:437][ 10]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2018.06.13-23.56.48:437][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011380s)
+[2018.06.13-23.56.48:454][ 10]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab7b5e1280, Size=432
+[2018.06.13-23.56.48:457][ 10]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.56.48:464][ 10]LogInit: FAudioDevice initialized.
+[2018.06.13-23.56.48:497][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.56.48:499][ 10]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.56.48
+[2018.06.13-23.56.48:499][ 10]LogWorld: Bringing up level for play took: 0.001097
+[2018.06.13-23.56.48:500][ 10]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.538
+[2018.06.13-23.56.48:500][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.57.16:999][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.57.17:031][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.57.23:387][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.57.23:520][713]LogSavePackage: Save=86.60ms
+[2018.06.13-23.57.23:520][713]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMapAC0F68684E96AEB552CF29B8261A4F0B.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.13-23.57.23:522][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.13-23.57.23:639][713]LogSavePackage: Save=91.27ms
+[2018.06.13-23.57.23:640][713]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap_BuiltData7338FDFB4F1933C9F40BC7AC2F1657EC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.13-23.57.23:641][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
