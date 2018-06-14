@@ -1592,3 +1592,406 @@ LogInit: Object subsystem initialized
 [2018.06.13-23.57.23:639][713]LogSavePackage: Save=91.27ms
 [2018.06.13-23.57.23:640][713]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMap_BuiltData7338FDFB4F1933C9F40BC7AC2F1657EC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.06.13-23.57.23:641][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.13-23.58.25:267][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.13-23.58.31:195][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.13-23.58.31:270][493]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.13-23.58.31:279][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.58.31:279][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-23.58.31:279][493]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 11:58:31 AM)
+[2018.06.13-23.58.31:280][493]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.13-23.58.31:290][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010231s)
+[2018.06.13-23.58.31:290][493]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.13-23.58.31:290][493]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2018.06.13-23.58.31:290][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010986s)
+[2018.06.13-23.58.31:311][493]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-23.58.31:318][493]LogInit: FAudioDevice initialized.
+[2018.06.13-23.58.31:348][493]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.13-23.58.31:349][493]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-17.58.31
+[2018.06.13-23.58.31:350][493]LogWorld: Bringing up level for play took: 0.001099
+[2018.06.13-23.58.31:351][493]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.611
+[2018.06.13-23.58.31:351][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.58.45:169][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.58.45:204][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.13-23.59.34:952][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.00.09:408][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset" SILENT=true
+[2018.06.14-00.00.09:468][679]LogSavePackage: Save=55.05ms
+[2018.06.14-00.00.09:468][679]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AJ_AnimBP33BA436F471107D265A5489C802BEDF0.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset'
+[2018.06.14-00.00.09:472][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset
+[2018.06.14-00.00.10:843][841]BlueprintLog: New page: Compile AJ_AnimBP
+[2018.06.14-00.00.10:864][841]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab9f269480, Size=120
+[2018.06.14-00.00.10:864][841]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab524efe00, Size=120, Default__AJ_AnimBP_C Function /Engine/Transient.REINST_AJ_AnimBP_C_26:ExecuteUbergraph_AJ_AnimBP
+[2018.06.14-00.00.10:871][841]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab5b377280, Size=120, Default__AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.14-00.00.11:753][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset" SILENT=true
+[2018.06.14-00.00.11:812][929]LogSavePackage: Save=54.14ms
+[2018.06.14-00.00.11:812][929]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AJ_AnimBPC451C2FE449BCA144B1736BD11B9B035.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset'
+[2018.06.14-00.00.11:813][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset
+[2018.06.14-00.00.13:153][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.00.13:162][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.00.13:162][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.00.13:163][ 89]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:00:13 PM)
+[2018.06.14-00.00.13:163][ 89]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.00.13:173][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010783s)
+[2018.06.14-00.00.13:174][ 89]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.00.13:174][ 89]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.06.14-00.00.13:175][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011940s)
+[2018.06.14-00.00.13:193][ 89]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab524efe00, Size=120
+[2018.06.14-00.00.13:196][ 89]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.00.13:203][ 89]LogInit: FAudioDevice initialized.
+[2018.06.14-00.00.13:235][ 89]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.00.13:236][ 89]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.00.13
+[2018.06.14-00.00.13:237][ 89]LogWorld: Bringing up level for play took: 0.001194
+[2018.06.14-00.00.13:238][ 89]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.724
+[2018.06.14-00.00.13:238][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.00.47:544][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.00.47:601][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.02.06:260][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.02.35:488][278]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.02.35:498][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.02.35:498][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.02.35:498][278]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:02:35 PM)
+[2018.06.14-00.02.35:498][278]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.02.35:509][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010677s)
+[2018.06.14-00.02.35:510][278]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.02.35:510][278]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2018.06.14-00.02.35:510][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011569s)
+[2018.06.14-00.02.35:531][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.02.35:539][278]LogInit: FAudioDevice initialized.
+[2018.06.14-00.02.35:568][278]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.02.35:569][278]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.02.35
+[2018.06.14-00.02.35:569][278]LogWorld: Bringing up level for play took: 0.001087
+[2018.06.14-00.02.35:570][278]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.391
+[2018.06.14-00.02.35:571][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.02.54:363][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.02.54:396][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.02.55:332][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.03.26:944][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.03.36:573][473]BlueprintLog: New page: Compile AJ_AnimBP
+[2018.06.14-00.03.36:593][473]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab5b377280, Size=120
+[2018.06.14-00.03.36:593][473]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab36bf4c00, Size=120, Default__AJ_AnimBP_C Function /Engine/Transient.REINST_AJ_AnimBP_C_28:ExecuteUbergraph_AJ_AnimBP
+[2018.06.14-00.03.36:600][473]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ab7b4ffc80, Size=120, Default__AJ_AnimBP_C Function /Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.AJ_AnimBP_C:ExecuteUbergraph_AJ_AnimBP
+[2018.06.14-00.03.38:062][634]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.03.38:072][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.03.38:073][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.03.38:073][634]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:03:38 PM)
+[2018.06.14-00.03.38:073][634]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.03.38:081][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008606s)
+[2018.06.14-00.03.38:082][634]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.03.38:082][634]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.06.14-00.03.38:082][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009310s)
+[2018.06.14-00.03.38:099][634]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab36bf4c00, Size=120
+[2018.06.14-00.03.38:103][634]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.03.38:109][634]LogInit: FAudioDevice initialized.
+[2018.06.14-00.03.38:137][634]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.03.38:139][634]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.03.38
+[2018.06.14-00.03.38:139][634]LogWorld: Bringing up level for play took: 0.001097
+[2018.06.14-00.03.38:140][634]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.179
+[2018.06.14-00.03.38:140][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.04.16:258][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.06.14-00.04.17:676][325]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.14-00.04.20:207][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.04.27:777][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.06.14-00.04.29:226][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.04.31:915][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.04.31:970][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.04.32:423][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.05.23:610][966]LogSavePackage: Save=5.08ms
+[2018.06.14-00.05.23:610][966]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_1_AnimMontage157F7DE4499A93DE0458CCA61669F259.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset'
+[2018.06.14-00.05.23:613][966]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_1_AnimMontage.uasset
+[2018.06.14-00.05.34:258][223]LogSavePackage: Save=4.71ms
+[2018.06.14-00.05.34:258][223]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_2_AnimMontage652E6D65481172B40BA846B1BF608919.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset'
+[2018.06.14-00.05.34:260][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_2_AnimMontage.uasset
+[2018.06.14-00.05.44:213][394]LogSavePackage: Save=4.34ms
+[2018.06.14-00.05.44:213][394]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AttackCombo_3_AminMontage0036545146B9E3DD2EE6F59E57D61A22.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset'
+[2018.06.14-00.05.44:215][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Montages/AttackCombo_3_AminMontage.uasset
+[2018.06.14-00.05.46:146][622]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.05.46:156][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.05.46:156][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.05.46:156][622]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:05:46 PM)
+[2018.06.14-00.05.46:156][622]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.05.46:165][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009202s)
+[2018.06.14-00.05.46:166][622]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.05.46:166][622]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2018.06.14-00.05.46:166][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010151s)
+[2018.06.14-00.05.46:186][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.05.46:193][622]LogInit: FAudioDevice initialized.
+[2018.06.14-00.05.46:221][622]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.05.46:222][622]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.05.46
+[2018.06.14-00.05.46:222][622]LogWorld: Bringing up level for play took: 0.001194
+[2018.06.14-00.05.46:223][622]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.262
+[2018.06.14-00.05.46:223][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.05.56:374][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.05.56:410][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.05.59:935][235]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.14-00.06.07:173][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.06.33:944][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.06.46:316][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.06.50:786][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.Actor_12.DebugSkelMeshComponent_81) Already registered. Aborting.
+[2018.06.14-00.06.50:805][ 53]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_99:PersistentLevel.Actor_12.DebugSkelMeshComponent_81) - call TermArticulated first.
+[2018.06.14-00.07.05:866][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP" FILE="../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset" SILENT=true
+[2018.06.14-00.07.05:928][640]LogSavePackage: Save=53.92ms
+[2018.06.14-00.07.05:928][640]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/AJ_AnimBPA424C7B741E53CA8930B78B60618FC6A.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset'
+[2018.06.14-00.07.05:930][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/AJ_AnimBP.uasset
+[2018.06.14-00.07.32:491][659]LogSlate: Window 'Components' being destroyed
+[2018.06.14-00.08.05:896][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-00.08.07:587][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-00.08.09:625][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.14-00.08.11:568][258]LogSlate: Window 'Components' being destroyed
+[2018.06.14-00.08.12:409][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.08.51:698][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.08.51:713][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.08.51:714][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.08.51:714][ 53]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:08:51 PM)
+[2018.06.14-00.08.51:714][ 53]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.08.51:724][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010352s)
+[2018.06.14-00.08.51:725][ 53]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.08.51:725][ 53]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2018.06.14-00.08.51:725][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011156s)
+[2018.06.14-00.08.51:743][ 53]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ab5cd17c80, Size=432
+[2018.06.14-00.08.51:777][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.08.51:784][ 53]LogInit: FAudioDevice initialized.
+[2018.06.14-00.08.51:822][ 53]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.08.51:824][ 53]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.08.51
+[2018.06.14-00.08.51:824][ 53]LogWorld: Bringing up level for play took: 0.001219
+[2018.06.14-00.08.51:826][ 53]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.135
+[2018.06.14-00.08.51:826][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.09.16:863][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.09.16:874][ 51]LogSlate: Window 'SummerShadow Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.14-00.09.16:915][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.09.18:200][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.09.19:336][333]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.06.14-00.09.22:908][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.10.11:128][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_13.DebugSkelMeshComponent_82) Already registered. Aborting.
+[2018.06.14-00.10.11:145][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_103:PersistentLevel.Actor_13.DebugSkelMeshComponent_82) - call TermArticulated first.
+[2018.06.14-00.10.17:353][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.10.51:055][970]LogSavePackage: Save=15.01ms
+[2018.06.14-00.10.51:055][970]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash3DDE9BDB4EC915C0087196ABCC816B88.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.14-00.10.51:057][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.14-00.11.03:198][361]LogSavePackage: Save=12.21ms
+[2018.06.14-00.11.03:199][361]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_84C215EF4205D39954897BBF629B28A7.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.14-00.11.03:201][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.14-00.11.16:514][917]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.11.16:525][917]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.16:526][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.11.16:526][917]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:11:16 PM)
+[2018.06.14-00.11.16:526][917]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.11.16:535][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008853s)
+[2018.06.14-00.11.16:535][917]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.11.16:535][917]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2018.06.14-00.11.16:535][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009726s)
+[2018.06.14-00.11.16:586][917]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.11.16:593][917]LogInit: FAudioDevice initialized.
+[2018.06.14-00.11.16:623][917]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.11.16:625][917]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.11.16
+[2018.06.14-00.11.16:625][917]LogWorld: Bringing up level for play took: 0.001193
+[2018.06.14-00.11.16:626][917]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.664
+[2018.06.14-00.11.16:626][917]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.21:667][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.21:699][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.24:202][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.11.31:755][663]LogSavePackage: Save=18.60ms
+[2018.06.14-00.11.31:755][663]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack1EF5FDBD4E77AAECDDB650848B7C8600.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.14-00.11.31:757][663]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.14-00.11.33:184][832]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.11.33:196][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.33:196][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.11.33:196][832]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:11:33 PM)
+[2018.06.14-00.11.33:196][832]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.11.33:205][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008515s)
+[2018.06.14-00.11.33:205][832]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.11.33:206][832]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.06.14-00.11.33:206][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009240s)
+[2018.06.14-00.11.33:225][832]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.11.33:232][832]LogInit: FAudioDevice initialized.
+[2018.06.14-00.11.33:261][832]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.11.33:264][832]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.11.33
+[2018.06.14-00.11.33:264][832]LogWorld: Bringing up level for play took: 0.001292
+[2018.06.14-00.11.33:265][832]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.697
+[2018.06.14-00.11.33:265][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.39:264][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.11.39:298][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.12.44:803][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.12.47:077][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.13.06:605][529]LogEditorTransaction: Undo Modify Component(s)
+[2018.06.14-00.13.06:682][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_13.DebugSkelMeshComponent_82) Already registered. Aborting.
+[2018.06.14-00.13.59:422][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.16.54:721][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.Actor_14.DebugSkelMeshComponent_88) Already registered. Aborting.
+[2018.06.14-00.16.54:740][395]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_109:PersistentLevel.Actor_14.DebugSkelMeshComponent_88) - call TermArticulated first.
+[2018.06.14-00.17.02:569][285]LogSavePackage: Save=14.83ms
+[2018.06.14-00.17.02:570][285]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash5F06143748F96170A3A04FBC490206F5.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.14-00.17.02:572][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.14-00.17.10:702][218]LogSavePackage: Save=11.94ms
+[2018.06.14-00.17.10:702][218]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_7FA8F80C4212FAFE97138AAE07571F35.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.14-00.17.10:704][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.14-00.17.19:483][242]LogSavePackage: Save=14.25ms
+[2018.06.14-00.17.19:483][242]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attackAC68FDBF4BF1F473A8DE95B9948605ED.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.14-00.17.19:486][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.14-00.17.22:218][468]LogSlate: Window 'Save Content' being destroyed
+[2018.06.14-00.17.22:399][468]LogSavePackage: Save=87.17ms
+[2018.06.14-00.17.22:399][468]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMapED487752401560D8085E6EA4EDBBF2E9.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.14-00.17.22:402][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.14-00.17.22:418][468]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.186
+[2018.06.14-00.17.23:268][568]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.17.23:279][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.17.23:280][568]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.14-00.17.23:294][568]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.06.14-00.17.23:306][568]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001abbc8c5b40, Size=432
+[2018.06.14-00.17.23:306][568]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba626f580, Size=432, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_155:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.14-00.17.23:312][568]LogUObjectGlobals: Created PersistentFrame Addr=0x000001aba626cb80, Size=432, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.14-00.17.23:576][568]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (1 blueprints)
+[2018.06.14-00.17.23:576][568]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:17:23 PM)
+[2018.06.14-00.17.23:576][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.17.23:586][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010032s)
+[2018.06.14-00.17.23:587][568]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.17.23:587][568]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2018.06.14-00.17.23:587][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011247s)
+[2018.06.14-00.17.23:607][568]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.17.23:615][568]LogInit: FAudioDevice initialized.
+[2018.06.14-00.17.23:648][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.17.23:650][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.17.23
+[2018.06.14-00.17.23:650][568]LogWorld: Bringing up level for play took: 0.001114
+[2018.06.14-00.17.23:651][568]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.31
+[2018.06.14-00.17.23:651][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.17.34:238][832]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.17.34:271][832]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.25.31:675][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.25.31:675][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.25.31:694][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.25.31:694][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.25.31:694][ 28]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:25:31 PM)
+[2018.06.14-00.25.31:694][ 28]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.25.31:706][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011078s)
+[2018.06.14-00.25.31:706][ 28]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.25.31:706][ 28]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.06.14-00.25.31:706][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011991s)
+[2018.06.14-00.25.31:728][ 28]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.25.31:735][ 28]LogInit: FAudioDevice initialized.
+[2018.06.14-00.25.31:769][ 28]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.25.31:771][ 28]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.25.31
+[2018.06.14-00.25.31:771][ 28]LogWorld: Bringing up level for play took: 0.001250
+[2018.06.14-00.25.31:772][ 28]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.189
+[2018.06.14-00.25.31:772][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.25.47:502][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.25.47:537][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.25.59:795][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.26.02:907][918]LogSavePackage: Save=12.30ms
+[2018.06.14-00.26.02:907][918]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack164F343A4E321B9ACA758F9DE1F88F76.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.14-00.26.02:912][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.14-00.26.27:791][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.Actor_15.DebugSkelMeshComponent_96) Already registered. Aborting.
+[2018.06.14-00.26.27:809][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_117:PersistentLevel.Actor_15.DebugSkelMeshComponent_96) - call TermArticulated first.
+[2018.06.14-00.26.33:191][423]LogSavePackage: Save=14.71ms
+[2018.06.14-00.26.33:191][423]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash3C2259C24670A5F8B727F2A87C6EE4C3.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.14-00.26.33:194][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.14-00.26.38:608][ 47]LogSavePackage: Save=11.74ms
+[2018.06.14-00.26.38:608][ 47]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_626ACA444C12D95EDA2DCA87C1C14E7B.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.14-00.26.38:611][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.14-00.26.42:941][546]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.26.42:954][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.26.42:954][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.26.42:954][546]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:26:42 PM)
+[2018.06.14-00.26.42:954][546]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.26.42:963][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008614s)
+[2018.06.14-00.26.42:964][546]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.26.42:964][546]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2018.06.14-00.26.42:964][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010012s)
+[2018.06.14-00.26.42:988][546]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.26.42:995][546]LogInit: FAudioDevice initialized.
+[2018.06.14-00.26.43:025][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.26.43:026][546]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.26.43
+[2018.06.14-00.26.43:026][546]LogWorld: Bringing up level for play took: 0.001132
+[2018.06.14-00.26.43:027][546]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.066
+[2018.06.14-00.26.43:028][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.26.48:677][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.26.48:721][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.26.49:637][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.26.55:401][  5]LogSavePackage: Save=15.18ms
+[2018.06.14-00.26.55:401][  5]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash598663E54BE979BB21D02EBA39E459E0.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.14-00.26.55:403][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.14-00.27.02:456][824]LogSavePackage: Save=11.77ms
+[2018.06.14-00.27.02:456][824]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_462B218D436D42340B548099A8ADDDE0.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.14-00.27.02:458][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.14-00.27.12:878][ 36]LogSavePackage: Save=14.16ms
+[2018.06.14-00.27.12:878][ 36]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack8ECC215245AA5382BF25A0B8D2962FAC.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.14-00.27.12:881][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.14-00.27.14:144][186]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.27.14:156][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.27.14:156][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.27.14:156][186]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:27:14 PM)
+[2018.06.14-00.27.14:156][186]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.27.14:166][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008938s)
+[2018.06.14-00.27.14:166][186]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.27.14:166][186]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.06.14-00.27.14:166][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009687s)
+[2018.06.14-00.27.14:188][186]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.27.14:195][186]LogInit: FAudioDevice initialized.
+[2018.06.14-00.27.14:225][186]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.27.14:226][186]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.27.14
+[2018.06.14-00.27.14:227][186]LogWorld: Bringing up level for play took: 0.001149
+[2018.06.14-00.27.14:228][186]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.266
+[2018.06.14-00.27.14:228][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.27.27:127][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.27.27:160][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.27.28:029][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.27.43:321][654]LogSavePackage: Save=14.39ms
+[2018.06.14-00.27.43:321][654]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attackC1015F484BA904B120CD1EBECACE2547.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.14-00.27.43:323][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.14-00.27.51:504][593]LogSavePackage: Save=14.90ms
+[2018.06.14-00.27.51:504][593]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slashFEA74E5D4ADC9846A480588ED4F76F80.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.14-00.27.51:507][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.14-00.27.54:493][927]LogSavePackage: Save=11.90ms
+[2018.06.14-00.27.54:493][927]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_9D15FE8F4FEE35AECD2663BF1CB879B6.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.14-00.27.54:495][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.14-00.27.56:224][128]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.27.56:235][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.27.56:235][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.27.56:235][128]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:27:56 PM)
+[2018.06.14-00.27.56:235][128]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.27.56:244][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008477s)
+[2018.06.14-00.27.56:244][128]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.27.56:245][128]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2018.06.14-00.27.56:245][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009214s)
+[2018.06.14-00.27.56:266][128]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.27.56:272][128]LogInit: FAudioDevice initialized.
+[2018.06.14-00.27.56:301][128]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.27.56:303][128]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.27.56
+[2018.06.14-00.27.56:303][128]LogWorld: Bringing up level for play took: 0.001251
+[2018.06.14-00.27.56:304][128]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.343
+[2018.06.14-00.27.56:304][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.28.24:021][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.28.24:053][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.28.24:654][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.14-00.28.30:115][160]LogSavePackage: Save=12.06ms
+[2018.06.14-00.28.30:115][160]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash__3_E83A581B45C5609A87DC5ABFBCD66E53.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset'
+[2018.06.14-00.28.30:117][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash__3_.uasset
+[2018.06.14-00.28.34:907][711]LogSavePackage: Save=14.72ms
+[2018.06.14-00.28.34:907][711]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_slash71256DC54113BB7688174D8570D049E8.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset'
+[2018.06.14-00.28.34:910][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_slash.uasset
+[2018.06.14-00.28.42:212][552]LogSavePackage: Save=17.48ms
+[2018.06.14-00.28.42:212][552]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack2AFB88CA42400B824667A683C4245C32.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset'
+[2018.06.14-00.28.42:214][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack.uasset
+[2018.06.14-00.28.45:561][799]LogSlate: Window 'Save Content' being destroyed
+[2018.06.14-00.28.45:744][799]LogSavePackage: Save=87.50ms
+[2018.06.14-00.28.45:744][799]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/ThirdPersonExampleMapF2FEB37C4149F6BA0A1687802A90D0C8.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.14-00.28.45:747][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.14-00.28.45:763][799]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.188
+[2018.06.14-00.28.45:801][799]LogSavePackage: Save=19.32ms
+[2018.06.14-00.28.45:801][799]LogSavePackage: Moving '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Saved/sword_and_shield_attack__3_C3D03DA24DE1AF7BD79EF5A068A4BF96.tmp' to '../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__3_.uasset'
+[2018.06.14-00.28.45:803][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1139622/Documents/GitHub/MyProjects/Content/ThirdPersonBP/Mixamo_AJ/Animations/sword_and_shield_attack__3_.uasset
+[2018.06.14-00.28.46:780][914]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.14-00.28.46:792][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.28.46:792][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-00.28.46:792][914]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 13, 2018, 12:28:46 PM)
+[2018.06.14-00.28.46:792][914]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.14-00.28.46:801][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008631s)
+[2018.06.14-00.28.46:801][914]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.14-00.28.46:801][914]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.06.14-00.28.46:801][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009413s)
+[2018.06.14-00.28.46:821][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-00.28.46:828][914]LogInit: FAudioDevice initialized.
+[2018.06.14-00.28.46:858][914]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.14-00.28.46:860][914]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.13-18.28.46
+[2018.06.14-00.28.46:860][914]LogWorld: Bringing up level for play took: 0.001308
+[2018.06.14-00.28.46:861][914]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.9
+[2018.06.14-00.28.46:861][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.29.34:159][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.29.34:206][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.14-00.29.35:124][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
