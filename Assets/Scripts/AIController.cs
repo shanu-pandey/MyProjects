@@ -13,7 +13,9 @@ public class AIController : MonoBehaviour {
     [SerializeField]
     private float turnSpeed = 50.0f;
 
+    [SerializeField]
     private float direction = 1.0f;
+    [SerializeField]
     private float turnValue = 0.0f;
 
     Collider myCollider;
@@ -84,7 +86,11 @@ public class AIController : MonoBehaviour {
 
         if (flag == 0)
         {
-            turnValue = 0;
+            //can be used to give dynamic behavior of not just travelling in a straight line - test with full AI
+            if (turnValue == 0)
+                turnValue = 5f;
+            else
+                turnValue = 0;
         }
 
         transform.Rotate(Vector3.up * turnSpeed * turnValue * Time.deltaTime);
