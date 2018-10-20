@@ -159,6 +159,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &134349654
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -313,6 +315,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 5
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,6 +428,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &237825133
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -767,6 +773,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &498526071
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -867,6 +875,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &507763470
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -967,6 +977,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &518426638
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1067,6 +1079,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &652428191
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1167,6 +1181,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &669996302
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1267,6 +1283,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &744677770
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1367,6 +1385,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &876693991
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1467,6 +1487,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &975695610
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1567,6 +1589,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &1132253797
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1667,6 +1691,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &1170479072
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2068,6 +2094,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &1971977546
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2168,6 +2196,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &1972566912
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2268,6 +2298,8 @@ MonoBehaviour:
   sensorLength: 1
   speed: 10
   turnSpeed: 1
+  direction: 1
+  turnValue: 0
 --- !u!65 &2029267156
 BoxCollider:
   m_ObjectHideFlags: 0
