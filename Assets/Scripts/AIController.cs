@@ -8,7 +8,7 @@ public class AIController : MonoBehaviour {
     private float sensorLength = 0.0f;
 
     [SerializeField]
-    private float speed = 5.0f;  
+    private float speed = 10.0f;  
 
     [SerializeField]
     private float turnSpeed = 50.0f;
