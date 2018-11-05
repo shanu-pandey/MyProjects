@@ -250,6 +250,7 @@ MonoBehaviour:
   - {fileID: 270286038}
   - {fileID: 543179149}
   m_home: {fileID: 1062985325}
+  m_player: {fileID: 1292065993}
 --- !u!1 &257021909
 GameObject:
   m_ObjectHideFlags: 0
@@ -763,6 +764,7 @@ MonoBehaviour:
   - {fileID: 270286038}
   - {fileID: 543179149}
   m_home: {fileID: 1062985325}
+  m_player: {fileID: 1292065993}
 --- !u!195 &462448575
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1923,6 +1925,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_speed: 10
+  Danger:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Happy:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &1411396413
 GameObject:
   m_ObjectHideFlags: 0
@@ -2329,6 +2341,7 @@ MonoBehaviour:
   - {fileID: 270286038}
   - {fileID: 543179149}
   m_home: {fileID: 1062985325}
+  m_player: {fileID: 1292065993}
 --- !u!195 &1771045499
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2536,6 +2549,7 @@ MonoBehaviour:
   - {fileID: 270286038}
   - {fileID: 543179149}
   m_home: {fileID: 1062985325}
+  m_player: {fileID: 1292065993}
 --- !u!195 &2030742040
 NavMeshAgent:
   m_ObjectHideFlags: 0

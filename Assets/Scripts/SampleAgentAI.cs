@@ -20,6 +20,9 @@ public class SampleAgentAI : MonoBehaviour {
     [SerializeField]
     private Transform m_home;
 
+    [SerializeField]
+    private PlayerController m_player = null;
+
     private NavMeshAgent m_naveMeshAgent;
     private int m_currentPatrolIndex;
     bool bTravelling;
@@ -38,7 +41,10 @@ public class SampleAgentAI : MonoBehaviour {
             m_currentPatrolIndex = 0;
             SetDestination();
         }
-	}
+
+        m_player.Danger.AddListener(DangerAction);
+        m_player.Happy.AddListener(HappyAction);
+    }
 	
 	// Update is called once per frame
 	void Update ()
@@ -71,7 +77,7 @@ public class SampleAgentAI : MonoBehaviour {
         }
 	}
 
-    public void SetDestination()
+    private void SetDestination()
     {
         if (m_PatrolPoints != null)
         {
@@ -81,7 +87,7 @@ public class SampleAgentAI : MonoBehaviour {
         }
     }
 
-    public void ChangePatrolPoint()
+    private void ChangePatrolPoint()
     {
         if (Random.Range(0f, 1f) <= m_switchProbability)
         {
@@ -100,5 +106,15 @@ public class SampleAgentAI : MonoBehaviour {
                 m_currentPatrolIndex = m_PatrolPoints.Count - 1;
             }
         }
+    }
+
+    private void DangerAction()
+    {
+        m_naveMeshAgent.isStopped = true;
+    }
+
+    private void HappyAction()
+    {
+        m_naveMeshAgent.isStopped = false;
     }
 }
