@@ -159,7 +159,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -233,9 +233,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -252,6 +253,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!1 &70625897
 GameObject:
   m_ObjectHideFlags: 0
@@ -299,6 +301,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -315,6 +318,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &70625900
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -435,9 +439,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -454,6 +459,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &85900354
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -467,7 +473,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -577,6 +583,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -593,6 +600,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &109272739
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -669,6 +677,47 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 109272736}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &194104184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 194104185}
+  - component: {fileID: 194104186}
+  m_Layer: 0
+  m_Name: Point 26
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &194104185
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 194104184}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.7999973, y: 0, z: -2.300005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &194104186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 194104184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &230067957
 GameObject:
   m_ObjectHideFlags: 0
@@ -1092,6 +1141,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -1108,6 +1158,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &324102672
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1269,6 +1320,47 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 333391409}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &339791708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 339791709}
+  - component: {fileID: 339791710}
+  m_Layer: 0
+  m_Name: Point 19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &339791709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 339791708}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 27, y: 0, z: 52.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &339791710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 339791708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &351525822
 GameObject:
   m_ObjectHideFlags: 0
@@ -1313,9 +1405,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -1332,6 +1425,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &351525825
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1345,7 +1439,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -1439,7 +1533,7 @@ Transform:
   - {fileID: 2093507036}
   - {fileID: 1292065987}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &359650425
 GameObject:
@@ -1485,9 +1579,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -1504,6 +1599,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &359650428
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1517,7 +1613,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -1603,7 +1699,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 373846533}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.41, y: 0, z: 34.69}
+  m_LocalPosition: {x: -40, y: 0, z: 34.69}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1098520800}
@@ -1644,7 +1740,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 375678769}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.2, y: 0, z: -18.5}
+  m_LocalPosition: {x: 31.8, y: 0, z: -18.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1098520800}
@@ -1709,6 +1805,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -1725,6 +1822,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &377477971
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1933,10 +2031,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &422759216
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1950,7 +2050,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -2145,6 +2245,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -2161,6 +2262,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &439417250
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2284,6 +2386,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -2300,6 +2403,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &462448575
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2385,6 +2489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 466515651}
   - component: {fileID: 466515650}
+  - component: {fileID: 466515652}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -2442,6 +2547,74 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &466515652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 466515649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8e764fc76a54b348bed4ea039392e55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_speed: 0.1
+  Morning:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Evening:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Night:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!1 &520363416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 520363417}
+  - component: {fileID: 520363418}
+  m_Layer: 0
+  m_Name: Point 13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &520363417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 520363416}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -52, y: 0, z: -81.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &520363418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 520363416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &530135978
 GameObject:
   m_ObjectHideFlags: 0
@@ -2486,9 +2659,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -2505,6 +2679,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &530135981
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2518,7 +2693,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -2628,10 +2803,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &539747856
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2645,7 +2822,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -2731,7 +2908,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 543179147}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.4, y: 0, z: 0}
+  m_LocalPosition: {x: 27, y: 0, z: -57.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1098520800}
@@ -2743,6 +2920,88 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 543179147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
+--- !u!1 &588377643
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 588377644}
+  - component: {fileID: 588377645}
+  m_Layer: 0
+  m_Name: Point 15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &588377644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 588377643}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -36.6, y: 0, z: -54.399998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &588377645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 588377643}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
+--- !u!1 &588420075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 588420076}
+  - component: {fileID: 588420077}
+  m_Layer: 0
+  m_Name: Point 22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &588420076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 588420075}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -41.9, y: 0, z: 6.299999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &588420077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 588420075}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
@@ -2834,6 +3093,88 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 592435034}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &595237876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 595237877}
+  - component: {fileID: 595237878}
+  m_Layer: 0
+  m_Name: Point 18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &595237877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 595237876}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 58.9, y: 0, z: -28.900003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &595237878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 595237876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
+--- !u!1 &605954242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 605954243}
+  - component: {fileID: 605954244}
+  m_Layer: 0
+  m_Name: Point 21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &605954243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 605954242}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -43.700005, y: 0, z: 52.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &605954244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 605954242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &612973227
 GameObject:
   m_ObjectHideFlags: 0
@@ -2922,6 +3263,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -2938,6 +3280,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &618477433
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3099,6 +3442,47 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 641677186}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &652039747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 652039748}
+  - component: {fileID: 652039749}
+  m_Layer: 0
+  m_Name: Point 23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &652039748
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 652039747}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 39.3, y: 0, z: 26.599998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &652039749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 652039747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &669948561
 GameObject:
   m_ObjectHideFlags: 0
@@ -3146,10 +3530,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &669948564
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3163,7 +3549,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -3240,7 +3626,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &690993592
 Transform:
   m_ObjectHideFlags: 0
@@ -3312,6 +3698,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -3328,6 +3715,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &696690432
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3536,10 +3924,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &793721709
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3553,7 +3943,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -3663,6 +4053,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -3679,6 +4070,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &828608438
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3840,6 +4232,47 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 828781476}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &834272623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 834272624}
+  - component: {fileID: 834272625}
+  m_Layer: 0
+  m_Name: Point 16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &834272624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 834272623}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 50.6, y: 0, z: -53.7}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &834272625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 834272623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &838453232
 GameObject:
   m_ObjectHideFlags: 0
@@ -3887,6 +4320,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -3903,6 +4337,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &838453235
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4026,10 +4461,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &897511506
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4043,7 +4480,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -4153,10 +4590,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &903978291
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4170,7 +4609,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -4277,9 +4716,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -4296,6 +4736,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &982484349
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4309,7 +4750,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -4416,9 +4857,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -4435,6 +4877,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &985017064
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4448,7 +4891,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -4555,9 +4998,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -4574,6 +5018,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &997685714
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4587,7 +5032,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -4919,7 +5364,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1077923084
 Transform:
   m_ObjectHideFlags: 0
@@ -4991,6 +5436,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -5007,6 +5453,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1088272726
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -5120,8 +5567,22 @@ Transform:
   - {fileID: 1411396414}
   - {fileID: 270286037}
   - {fileID: 543179148}
+  - {fileID: 520363417}
+  - {fileID: 1413702791}
+  - {fileID: 588377644}
+  - {fileID: 834272624}
+  - {fileID: 1983362922}
+  - {fileID: 595237877}
+  - {fileID: 339791709}
+  - {fileID: 1491330382}
+  - {fileID: 605954243}
+  - {fileID: 588420076}
+  - {fileID: 652039748}
+  - {fileID: 1166487773}
+  - {fileID: 1135117432}
+  - {fileID: 194104185}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1099220860
 GameObject:
@@ -5419,6 +5880,47 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1134113842}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1135117431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1135117432}
+  - component: {fileID: 1135117433}
+  m_Layer: 0
+  m_Name: Point 25
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1135117432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1135117431}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -15.3, y: 0, z: -45.9}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1135117433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1135117431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &1158509958
 GameObject:
   m_ObjectHideFlags: 0
@@ -5442,7 +5944,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1158509958}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 54.9, y: 0, z: 0}
+  m_LocalPosition: {x: 62.5, y: 0, z: 41.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1098520800}
@@ -5454,6 +5956,47 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1158509958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
+--- !u!1 &1166487772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1166487773}
+  - component: {fileID: 1166487774}
+  m_Layer: 0
+  m_Name: Point 24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1166487773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1166487772}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6, y: 0, z: -55.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1166487774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1166487772}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
@@ -5513,7 +6056,7 @@ Transform:
   - {fileID: 1654161731}
   - {fileID: 1844191048}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1190765335
 GameObject:
@@ -5647,6 +6190,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -5663,6 +6207,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1201630338
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -5912,6 +6457,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -5928,6 +6474,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1234928987
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -6136,10 +6683,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1247539339
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -6153,7 +6702,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -6260,9 +6809,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -6279,6 +6829,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1253676747
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -6292,7 +6843,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -6553,7 +7104,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1292065986}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -46.6, y: -2.5, z: 3.26}
+  m_LocalPosition: {x: -46.6, y: -1.79, z: 3.26}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 352181510}
@@ -6674,6 +7225,11 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  Apocalypse:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &1298705834
 GameObject:
   m_ObjectHideFlags: 0
@@ -6721,6 +7277,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -6737,6 +7294,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1298705837
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7030,6 +7588,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -7046,6 +7605,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1322915883
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7292,6 +7852,72 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1352624047}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1359534194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1359534196}
+  - component: {fileID: 1359534195}
+  m_Layer: 0
+  m_Name: Light_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!108 &1359534195
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1359534194}
+  m_Enabled: 1
+  serializedVersion: 8
+  m_Type: 1
+  m_Color: {r: 1, g: 0.9987345, b: 0.995283, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &1359534196
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1359534194}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1367510884
 GameObject:
   m_ObjectHideFlags: 0
@@ -7339,6 +7965,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -7355,6 +7982,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1367510887
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7478,10 +8106,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1369808314
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7495,7 +8125,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -7602,9 +8232,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -7621,6 +8252,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1369988909
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7634,7 +8266,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -7744,10 +8376,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1392139434
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7761,7 +8395,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -7859,6 +8493,47 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1411396413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
+--- !u!1 &1413702790
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1413702791}
+  - component: {fileID: 1413702792}
+  m_Layer: 0
+  m_Name: Point 14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1413702791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1413702790}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -52, y: 0, z: -24.589998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1413702792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1413702790}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
@@ -8037,6 +8712,47 @@ Transform:
   m_Father: {fileID: 1181335530}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1491330381
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1491330382}
+  - component: {fileID: 1491330383}
+  m_Layer: 0
+  m_Name: Point 20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1491330382
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1491330381}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -32.6, y: 0, z: -83.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1491330383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1491330381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &1509675450
 GameObject:
   m_ObjectHideFlags: 0
@@ -8081,9 +8797,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
+  bPatrolWaiting: 1
   m_totalWaitTime: 30
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -8100,6 +8817,7 @@ MonoBehaviour:
   m_home: {fileID: 1062985325}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1509675453
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8113,7 +8831,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -8223,6 +8941,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -8239,6 +8958,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1518246165
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8386,13 +9106,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1585783047}
-  m_LocalRotation: {x: 0.10448377, y: -0, z: -0, w: 0.9945266}
-  m_LocalPosition: {x: -45.64, y: 20.68, z: -43.53}
+  m_LocalRotation: {x: 0.3008342, y: -0, z: -0, w: 0.95367646}
+  m_LocalPosition: {x: -45.64, y: 32.5, z: -41}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 11.995001, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 35.015003, y: 0, z: 0}
 --- !u!114 &1585783051
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8538,6 +9258,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -8554,6 +9275,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1679929265
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8888,10 +9610,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1771045499
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8905,7 +9629,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -9141,10 +9865,12 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints: []
   m_home: {fileID: 1905978398}
   m_player: {fileID: 1292065993}
-  m_behavior: 0
+  m_behavior: 1
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1851706603
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9158,7 +9884,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 100
-  m_StoppingDistance: 0
+  m_StoppingDistance: 0.5
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
@@ -9268,6 +9994,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -9284,6 +10011,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1859183921
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9492,6 +10220,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -9508,6 +10237,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1920799957
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9631,6 +10361,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -9647,6 +10378,7 @@ MonoBehaviour:
   m_home: {fileID: 1352624048}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &1950713607
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9723,6 +10455,47 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1950713604}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1983362921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1983362922}
+  - component: {fileID: 1983362923}
+  m_Layer: 0
+  m_Name: Point 17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1983362922
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1983362921}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.5, y: 0, z: 38.9}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1098520800}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1983362923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1983362921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b49a3db1d283f8d4f8a10ee57f2fb30a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_debugRadius: 1
 --- !u!1 &1997350261
 GameObject:
   m_ObjectHideFlags: 0
@@ -9754,7 +10527,7 @@ Transform:
   - {fileID: 1905978398}
   - {fileID: 1242873161}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2030742037
 GameObject:
@@ -9803,6 +10576,7 @@ MonoBehaviour:
   bPatrolWaiting: 0
   m_totalWaitTime: 3
   m_switchProbability: 0.2
+  m_reactionRadius: 25
   m_PatrolPoints:
   - {fileID: 375678771}
   - {fileID: 612973229}
@@ -9819,6 +10593,7 @@ MonoBehaviour:
   m_home: {fileID: 1121956265}
   m_player: {fileID: 1292065993}
   m_behavior: 0
+  m_dayNightManager: {fileID: 466515652}
 --- !u!195 &2030742040
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9909,7 +10684,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2093507036
 Transform:
   m_ObjectHideFlags: 0

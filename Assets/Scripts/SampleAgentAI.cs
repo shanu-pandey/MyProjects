@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public enum Behavior { Timid, Brave};
+public enum Behavior { Timid, Brave, Indifferent};
 
 
 public class SampleAgentAI : MonoBehaviour {
@@ -32,6 +32,10 @@ public class SampleAgentAI : MonoBehaviour {
     [SerializeField]
     private Behavior m_behavior;// = null;
 
+    [SerializeField]
+    private DayNightCycle m_dayNightManager;
+
+
     private NavMeshAgent m_naveMeshAgent;
     private int m_currentPatrolIndex;
     bool bExternalEvent = false;
@@ -59,6 +63,10 @@ public class SampleAgentAI : MonoBehaviour {
         m_player.Danger.AddListener(DangerAction);
         m_player.Happy.AddListener(HappyAction);
         m_player.Apocalypse.AddListener(Apocalypse);
+
+        m_dayNightManager.Morning.AddListener(MorningEvent);
+        m_dayNightManager.Evening.AddListener(EveningEvent);
+        m_dayNightManager.Night.AddListener(NightEvent);
     }
 	
 	// Update is called once per frame
@@ -138,7 +146,7 @@ public class SampleAgentAI : MonoBehaviour {
                 float time = Random.Range(1f, 3f);
                 StartCoroutine(RunAway(time));
             }
-            else
+            else if (m_behavior == Behavior.Brave)
             {
                 StartCoroutine(Confront());
             }
@@ -170,7 +178,6 @@ public class SampleAgentAI : MonoBehaviour {
         bPatrolWaiting = true;
     }
 
-
     private IEnumerator RunAway(float i_time)
     {        
         yield return new WaitForSeconds(i_time);
@@ -184,4 +191,19 @@ public class SampleAgentAI : MonoBehaviour {
         float time = Random.Range(3f, 8f);
         StartCoroutine(RunAway(time));
     }
+
+    private void MorningEvent()
+    {
+        Debug.Log("Do Morning");
+    }
+
+    private void EveningEvent()
+    {
+        Debug.Log("Do Evening");
+    }
+
+    private void NightEvent()
+    {
+        Debug.Log("Do Night");
+    }    
 }
