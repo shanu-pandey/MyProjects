@@ -2558,7 +2558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8e764fc76a54b348bed4ea039392e55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_speed: 0.1
+  m_speed: 1
   Morning:
     m_PersistentCalls:
       m_Calls: []
