@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+public enum Behavior { Timid, Brave};
+
+
 public class SampleAgentAI : MonoBehaviour {
 
     [SerializeField]
@@ -23,6 +26,9 @@ public class SampleAgentAI : MonoBehaviour {
     [SerializeField]
     private PlayerController m_player = null;
 
+    [SerializeField]
+    private Behavior m_behavior;// = null;
+
     private NavMeshAgent m_naveMeshAgent;
     private int m_currentPatrolIndex;
     bool bTravelling;
@@ -40,6 +46,10 @@ public class SampleAgentAI : MonoBehaviour {
         {
             m_currentPatrolIndex = 0;
             SetDestination();
+        }
+        else
+        {
+            GoHome();
         }
 
         m_player.Danger.AddListener(DangerAction);
@@ -116,5 +126,10 @@ public class SampleAgentAI : MonoBehaviour {
     private void HappyAction()
     {
         m_naveMeshAgent.isStopped = false;
+    }
+
+    private void GoHome()
+    {
+        m_naveMeshAgent.SetDestination(m_home.position);        
     }
 }
