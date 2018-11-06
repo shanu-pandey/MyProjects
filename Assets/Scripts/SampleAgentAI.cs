@@ -18,6 +18,9 @@ public class SampleAgentAI : MonoBehaviour {
     float m_switchProbability = 0.2f;
 
     [SerializeField]
+    float m_reactionRadius = 50.0f;
+
+    [SerializeField]
     List<PatrolPoint> m_PatrolPoints = null;
 
     [SerializeField]
@@ -31,6 +34,7 @@ public class SampleAgentAI : MonoBehaviour {
 
     private NavMeshAgent m_naveMeshAgent;
     private int m_currentPatrolIndex;
+    bool bExternalEvent = false;
     bool bTravelling;
     bool bWaiting;
     bool bPatrolForward;
@@ -54,35 +58,40 @@ public class SampleAgentAI : MonoBehaviour {
 
         m_player.Danger.AddListener(DangerAction);
         m_player.Happy.AddListener(HappyAction);
+        m_player.Apocalypse.AddListener(Apocalypse);
     }
 	
 	// Update is called once per frame
 	void Update ()
     {
-        if (bTravelling && m_naveMeshAgent.remainingDistance <=1.0f)
+        if (!bExternalEvent)
         {
-            bTravelling = false;
 
-            if (bPatrolWaiting)
+            if (bTravelling && m_naveMeshAgent.remainingDistance <= 1.0f)
             {
-                bWaiting = true;
-                m_waitTimer = 0.0f;
-            }
-            else
-            {
-                ChangePatrolPoint();
-                SetDestination();
-            }
-        }
+                bTravelling = false;
 
-        if (bWaiting)
-        {
-            m_waitTimer += Time.deltaTime;
-            if (m_waitTimer >= m_totalWaitTime)
+                if (bPatrolWaiting)
+                {
+                    bWaiting = true;
+                    m_waitTimer = 0.0f;
+                }
+                else
+                {
+                    ChangePatrolPoint();
+                    SetDestination();
+                }
+            }
+
+            if (bWaiting)
             {
-                bWaiting = false;
-                ChangePatrolPoint();
-                SetDestination();
+                m_waitTimer += Time.deltaTime;
+                if (m_waitTimer >= m_totalWaitTime)
+                {
+                    bWaiting = false;
+                    ChangePatrolPoint();
+                    SetDestination();
+                }
             }
         }
 	}
@@ -120,16 +129,59 @@ public class SampleAgentAI : MonoBehaviour {
 
     private void DangerAction()
     {
-        m_naveMeshAgent.isStopped = true;
+        if ((transform.position - m_player.transform.position).magnitude <= m_reactionRadius)
+        {
+            bExternalEvent = true;
+            m_naveMeshAgent.isStopped = true;
+            if (m_behavior == Behavior.Timid)
+            {
+                float time = Random.Range(1f, 3f);
+                StartCoroutine(RunAway(time));
+            }
+            else
+            {
+                StartCoroutine(Confront());
+            }
+        }
     }
 
     private void HappyAction()
     {
-        m_naveMeshAgent.isStopped = false;
+        if ((transform.position - m_player.transform.position).magnitude <= m_reactionRadius)
+        {
+            m_naveMeshAgent.isStopped = false;
+        }        
     }
 
     private void GoHome()
-    {
+    {       
+        m_naveMeshAgent.isStopped = false;
         m_naveMeshAgent.SetDestination(m_home.position);        
+    }
+
+    private IEnumerator Confront()
+    {
+        float time = Random.Range(1f, 3f);
+        yield return new WaitForSeconds(time);
+        m_naveMeshAgent.isStopped = false;
+        float offset = Random.Range(3f, 15f);
+        Vector3 target = m_player.transform.position - new Vector3(offset, 0, offset);
+        m_naveMeshAgent.SetDestination(target);
+        bPatrolWaiting = true;
+    }
+
+
+    private IEnumerator RunAway(float i_time)
+    {        
+        yield return new WaitForSeconds(i_time);
+        GoHome();
+    }
+
+    private void Apocalypse()
+    {
+        bExternalEvent = true;
+        m_naveMeshAgent.isStopped = true;
+        float time = Random.Range(3f, 8f);
+        StartCoroutine(RunAway(time));
     }
 }

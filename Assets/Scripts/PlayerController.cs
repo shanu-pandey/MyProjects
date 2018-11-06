@@ -13,9 +13,10 @@ public class PlayerController : MonoBehaviour {
 
     public UnityEvent Danger;
     public UnityEvent Happy;
+    public UnityEvent Apocalypse;
 
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start ()
     {
         m_controller = this.GetComponent<CharacterController>();		
 	}
@@ -36,6 +37,11 @@ public class PlayerController : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Z))
         {
             Happy.Invoke();
+        }
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            Apocalypse.Invoke();
         }
 
     }
