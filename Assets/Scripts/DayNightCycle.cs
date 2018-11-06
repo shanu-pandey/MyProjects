@@ -25,29 +25,54 @@ public class DayNightCycle : MonoBehaviour {
 
     // Update is called once per frame
     private void Update()
-    {
-        Debug.Log(transform.rotation.eulerAngles.x);
-        if (transform.rotation.x >0 && transform.rotation.x <= 90)
+    {        
+       // Debug.Log(transform.rotation.eulerAngles.x +"___" +transform.up.y);
+
+        if (transform.rotation.eulerAngles.x > 0 && transform.rotation.eulerAngles.x <= 90)
         {
-            if (!bMorning)
+            if (transform.up.y >0)
             {
-                Morning.Invoke();
-                bMorning = true;
-                bEvening = false;
-                bNight = false;
-            }            
-        }
-        else if (transform.rotation.x > 90 && transform.rotation.x <= 180)
-        {
-            if (!bEvening)
-            {
-                Evening.Invoke();
-                bMorning = false;
-                bEvening = true;
-                bNight = false;                
+                if (!bMorning)
+                {
+                    Morning.Invoke();
+                    bMorning = true;
+                    bEvening = false;
+                    bNight = false;
+                }
             }
-            
+            else if (transform.up.y < 0)
+            {
+                if (!bEvening)
+                {
+                    Evening.Invoke();
+                    bMorning = false;
+                    bEvening = true;
+                    bNight = false;
+                }
+            }
         }
+
+        //if (transform.rotation.x >0 && transform.rotation.x <= 90)
+        //{
+        //    if (!bMorning)
+        //    {
+        //        Morning.Invoke();
+        //        bMorning = true;
+        //        bEvening = false;
+        //        bNight = false;
+        //    }            
+        //}
+        //else if (transform.rotation.x > 90 && transform.rotation.x <= 180)
+        //{
+        //    if (!bEvening)
+        //    {
+        //        Evening.Invoke();
+        //        bMorning = false;
+        //        bEvening = true;
+        //        bNight = false;                
+        //    }
+            
+        //}
         else
         {
             if (!bNight)
