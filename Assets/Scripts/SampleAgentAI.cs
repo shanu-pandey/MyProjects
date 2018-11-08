@@ -35,10 +35,13 @@ public class SampleAgentAI : MonoBehaviour {
     [SerializeField]
     private DayNightCycle m_dayNightManager;
 
+    [SerializeField]
+    bool bExternalEvent = false;
+
+
 
     private NavMeshAgent m_naveMeshAgent;
     private int m_currentPatrolIndex;
-    bool bExternalEvent = false;
     bool bTravelling;
     bool bWaiting;
     bool bPatrolForward;
@@ -49,17 +52,18 @@ public class SampleAgentAI : MonoBehaviour {
     void Start ()
     {
         m_naveMeshAgent = this.GetComponent<NavMeshAgent>();
-		
-        if (m_PatrolPoints != null && m_PatrolPoints.Count >=2)
+        if (!bExternalEvent)
         {
-            m_currentPatrolIndex = 0;
-            SetDestination();
+            if (m_PatrolPoints != null && m_PatrolPoints.Count >= 2)
+            {
+                m_currentPatrolIndex = 0;
+                SetDestination();
+            }
+            else
+            {
+                GoHome();
+            }
         }
-        else
-        {
-            GoHome();
-        }
-
         m_player.Danger.AddListener(DangerAction);
         m_player.Happy.AddListener(HappyAction);
         m_player.Apocalypse.AddListener(Apocalypse);
@@ -139,15 +143,18 @@ public class SampleAgentAI : MonoBehaviour {
     {
         if ((transform.position - m_player.transform.position).magnitude <= m_reactionRadius)
         {
-            bExternalEvent = true;
-            m_naveMeshAgent.isStopped = true;
+            
             if (m_behavior == Behavior.Timid)
             {
+                bExternalEvent = true;
+                m_naveMeshAgent.isStopped = true;
                 float time = Random.Range(1f, 3f);
                 StartCoroutine(RunAway(time));
             }
             else if (m_behavior == Behavior.Brave)
             {
+                bExternalEvent = true;
+                m_naveMeshAgent.isStopped = true;
                 StartCoroutine(Confront());
             }
         }
@@ -176,6 +183,7 @@ public class SampleAgentAI : MonoBehaviour {
         Vector3 target = m_player.transform.position - new Vector3(offset, 0, offset);
         m_naveMeshAgent.SetDestination(target);
         bPatrolWaiting = true;
+        StartCoroutine(Reset(3f));
     }
 
     private IEnumerator RunAway(float i_time)
@@ -194,16 +202,70 @@ public class SampleAgentAI : MonoBehaviour {
 
     private void MorningEvent()
     {
-        Debug.Log("Do Morning");
+        Debug.Log("Do morning");
+
+        float time = Random.Range(1f, 4f);
+        StartCoroutine(StartMorning(time));
     }
 
     private void EveningEvent()
     {
         Debug.Log("Do Evening");
+        float time = Random.Range(3f, 5f);
+        StartCoroutine(StartEvening(time));
     }
 
     private void NightEvent()
     {
-        Debug.Log("Do Night");
+        //Debug.Log("Do Night");
+        if ((m_naveMeshAgent.destination - m_home.transform.position).magnitude >20.0f)
+        {
+            float time = Random.Range(1f, 5f);
+            StartCoroutine(StartNight(time));
+        }
     }    
+
+    private IEnumerator StartMorning(float i_time)
+    {
+        yield return new WaitForSeconds(i_time);
+        bExternalEvent = false;
+        if (m_PatrolPoints != null && m_PatrolPoints.Count >= 2)
+        {
+            m_currentPatrolIndex = 0;
+            SetDestination();            
+        }
+        else
+        {
+            GoHome();
+        }
+    }
+
+    private IEnumerator StartEvening(float i_time)
+    {
+        yield return new WaitForSeconds(i_time);
+        bExternalEvent = true;
+        if (m_behavior == Behavior.Timid)
+        {
+            GoHome();
+        }
+    }
+
+    private IEnumerator StartNight(float i_time)
+    {
+        yield return new WaitForSeconds(i_time);
+        bExternalEvent = true;
+        if (m_behavior != Behavior.Timid)
+        {
+            Debug.Log("night go home");
+            GoHome();
+        }
+    }
+
+    private IEnumerator Reset(float i_time)
+    {
+        yield return new WaitForSeconds(i_time);
+        print("reset danger");
+        bExternalEvent = false;
+    }
+
 }

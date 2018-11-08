@@ -233,8 +233,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  bPatrolWaiting: 0
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -268,6 +268,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!1 &70625897
 GameObject:
   m_ObjectHideFlags: 0
@@ -312,8 +313,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -347,6 +348,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &70625900
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -468,7 +470,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -502,6 +504,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &85900354
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -657,6 +660,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &109272739
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1229,6 +1233,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &324102672
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1476,7 +1481,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -1510,6 +1515,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &351525825
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1664,7 +1670,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -1698,6 +1704,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &359650428
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1900,8 +1907,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -1935,6 +1942,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &377477971
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2175,6 +2183,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &422759216
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2380,8 +2389,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -2415,6 +2424,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &439417250
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2570,6 +2580,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &462448575
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2724,7 +2735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8e764fc76a54b348bed4ea039392e55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_speed: 1
+  m_speed: 0.1
   bIsActive: 0
   Morning:
     m_PersistentCalls:
@@ -2827,7 +2838,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -2861,6 +2872,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &530135981
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3016,6 +3028,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &539747856
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3502,6 +3515,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &618477433
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3783,6 +3797,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &669948564
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -3942,8 +3957,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -3977,6 +3992,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &696690432
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4217,6 +4233,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &793721709
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4337,8 +4354,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -4372,6 +4389,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &828608438
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4653,6 +4671,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &838453235
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4808,6 +4827,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &897511506
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -4963,6 +4983,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &903978291
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -5084,7 +5105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -5118,6 +5139,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &982484349
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -5239,7 +5261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -5273,6 +5295,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &985017064
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -5394,7 +5417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -5428,6 +5451,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &997685714
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -5877,6 +5901,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1088272726
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -6610,8 +6635,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -6645,6 +6670,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1201630338
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -6926,6 +6952,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1234928987
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7166,6 +7193,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1247539339
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7287,7 +7315,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -7321,6 +7349,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1253676747
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7800,6 +7829,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1298705837
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8090,8 +8120,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -8125,6 +8155,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1322915883
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8516,6 +8547,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1367510887
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8671,6 +8703,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1369808314
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8792,7 +8825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -8826,6 +8859,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1369988909
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -8981,6 +9015,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1392139434
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9397,7 +9432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bPatrolWaiting: 1
-  m_totalWaitTime: 30
+  m_totalWaitTime: 2
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -9431,6 +9466,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1509675453
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9551,8 +9587,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -9586,6 +9622,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1518246165
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -9917,6 +9954,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 1
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1679929265
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -10283,6 +10321,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1771045499
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -10564,6 +10603,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 2
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1851706603
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -10684,8 +10724,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -10719,6 +10759,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1859183921
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -10924,8 +10965,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -10959,6 +11000,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1920799957
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -11114,6 +11156,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &1950713607
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -11308,8 +11351,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf3d0e9c5ed5214dbf9de68e304c912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bPatrolWaiting: 0
-  m_totalWaitTime: 3
+  bPatrolWaiting: 1
+  m_totalWaitTime: 5
   m_switchProbability: 0.2
   m_reactionRadius: 25
   m_PatrolPoints:
@@ -11343,6 +11386,7 @@ MonoBehaviour:
   m_player: {fileID: 1292065993}
   m_behavior: 0
   m_dayNightManager: {fileID: 466515652}
+  bExternalEvent: 0
 --- !u!195 &2030742040
 NavMeshAgent:
   m_ObjectHideFlags: 0
