@@ -140,7 +140,7 @@ Transform:
   m_GameObject: {fileID: 134349651}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 58.7, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 1
@@ -157,10 +157,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.6
 --- !u!65 &134349654
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -242,7 +242,7 @@ Transform:
   m_GameObject: {fileID: 145500257}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 11.18, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 0
@@ -313,10 +313,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.3
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -410,7 +410,7 @@ Transform:
   m_GameObject: {fileID: 237825130}
   m_LocalRotation: {x: -0, y: -0.1970996, z: -0, w: 0.98038346}
   m_LocalPosition: {x: 8.4, y: 0, z: 37.5}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 11
@@ -427,10 +427,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.3
 --- !u!65 &237825133
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -511,7 +511,7 @@ Transform:
   m_GameObject: {fileID: 262829456}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 99.3, y: 0, z: 0}
-  m_LocalScale: {x: 0.16123268, y: 3.4103, z: 204.16087}
+  m_LocalScale: {x: 0.16123268, y: 30.281076, z: 204.16087}
   m_Children: []
   m_Father: {fileID: 2082478508}
   m_RootOrder: 2
@@ -596,7 +596,7 @@ Transform:
   m_GameObject: {fileID: 268913898}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -2.7, y: 0, z: 98.7}
-  m_LocalScale: {x: 0.16123287, y: 1, z: 227.58795}
+  m_LocalScale: {x: 0.16123287, y: 8.8793, z: 227.58795}
   m_Children: []
   m_Father: {fileID: 2082478508}
   m_RootOrder: 4
@@ -759,7 +759,7 @@ Transform:
   m_GameObject: {fileID: 498526068}
   m_LocalRotation: {x: -0, y: 0.13353616, z: -0, w: 0.9910439}
   m_LocalPosition: {x: -0.1, y: 0, z: -33.8}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 6
@@ -776,10 +776,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.3
 --- !u!65 &498526071
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -861,7 +861,7 @@ Transform:
   m_GameObject: {fileID: 507763467}
   m_LocalRotation: {x: -0, y: -0.1970996, z: -0, w: 0.98038346}
   m_LocalPosition: {x: -12.7, y: 0, z: 32.8}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 14
@@ -878,10 +878,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.5
 --- !u!65 &507763470
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -963,7 +963,7 @@ Transform:
   m_GameObject: {fileID: 518426635}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 46.1, y: 0, z: 5.2}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 3
@@ -980,10 +980,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.6
 --- !u!65 &518426638
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1065,7 +1065,7 @@ Transform:
   m_GameObject: {fileID: 652428188}
   m_LocalRotation: {x: -0, y: 0.13353616, z: -0, w: 0.9910439}
   m_LocalPosition: {x: 11.00543, y: 0, z: -8.3856}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 5
@@ -1082,10 +1082,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &652428191
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1167,7 +1167,7 @@ Transform:
   m_GameObject: {fileID: 669996299}
   m_LocalRotation: {x: -0, y: 0.13353616, z: -0, w: 0.9910439}
   m_LocalPosition: {x: 49.264015, y: 0, z: -23.914902}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 7
@@ -1184,10 +1184,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &669996302
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1269,7 +1269,7 @@ Transform:
   m_GameObject: {fileID: 744677767}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.46, y: 0, z: -7.09}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 9
@@ -1286,10 +1286,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &744677770
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1371,7 +1371,7 @@ Transform:
   m_GameObject: {fileID: 876693988}
   m_LocalRotation: {x: -0.010892164, y: 0.78770185, z: -0.013932678, w: 0.6158027}
   m_LocalPosition: {x: 61.3, y: 0, z: -22}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 2
@@ -1388,9 +1388,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
+  speed: 25
+  turnSpeed: 2
+  direction: -1
   turnValue: 0
 --- !u!65 &876693991
 BoxCollider:
@@ -1473,7 +1473,7 @@ Transform:
   m_GameObject: {fileID: 975695607}
   m_LocalRotation: {x: -0, y: -0.1970996, z: -0, w: 0.98038346}
   m_LocalPosition: {x: -7.7, y: 0, z: 2.03}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 15
@@ -1490,10 +1490,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &975695610
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1575,7 +1575,7 @@ Transform:
   m_GameObject: {fileID: 1132253794}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 43.25, y: 0, z: -17.3}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 4
@@ -1592,10 +1592,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.3
 --- !u!65 &1132253797
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1677,7 +1677,7 @@ Transform:
   m_GameObject: {fileID: 1170479069}
   m_LocalRotation: {x: -0, y: 0.13353616, z: -0, w: 0.9910439}
   m_LocalPosition: {x: 9.9, y: 0, z: 24.6}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 8
@@ -1694,10 +1694,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &1170479072
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1909,7 +1909,7 @@ Transform:
   m_GameObject: {fileID: 1722594820}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -1.5, y: 0, z: -97.1}
-  m_LocalScale: {x: 0.16123287, y: 1, z: 237.09221}
+  m_LocalScale: {x: 0.16123287, y: 8.8793, z: 237.09221}
   m_Children: []
   m_Father: {fileID: 2082478508}
   m_RootOrder: 3
@@ -1994,7 +1994,7 @@ Transform:
   m_GameObject: {fileID: 1941686415}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -100.1, y: 0, z: 0}
-  m_LocalScale: {x: 0.16123268, y: 4.9157, z: 202.3303}
+  m_LocalScale: {x: 0.16123268, y: 43.647976, z: 202.3303}
   m_Children: []
   m_Father: {fileID: 2082478508}
   m_RootOrder: 1
@@ -2080,7 +2080,7 @@ Transform:
   m_GameObject: {fileID: 1971977543}
   m_LocalRotation: {x: -0, y: -0.1970996, z: -0, w: 0.98038346}
   m_LocalPosition: {x: 58.7, y: 0, z: 29.9}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 10
@@ -2097,10 +2097,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
+  speed: 25
+  turnSpeed: 2
   direction: 1
-  turnValue: 0
+  turnValue: 0.5
 --- !u!65 &1971977546
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2182,7 +2182,7 @@ Transform:
   m_GameObject: {fileID: 1972566909}
   m_LocalRotation: {x: -0, y: -0.1970996, z: -0, w: 0.98038346}
   m_LocalPosition: {x: 47.6, y: 0, z: 15.9}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 12
@@ -2199,10 +2199,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &1972566912
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2284,7 +2284,7 @@ Transform:
   m_GameObject: {fileID: 2029267153}
   m_LocalRotation: {x: -0, y: -0.1970996, z: -0, w: 0.98038346}
   m_LocalPosition: {x: 1.6596057, y: 0, z: 5.9589605}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1295478108}
   m_RootOrder: 13
@@ -2301,10 +2301,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensorLength: 1
-  speed: 15
-  turnSpeed: 1
-  direction: 1
-  turnValue: 0
+  speed: 25
+  turnSpeed: 2
+  direction: -1
+  turnValue: 0.5
 --- !u!65 &2029267156
 BoxCollider:
   m_ObjectHideFlags: 0
